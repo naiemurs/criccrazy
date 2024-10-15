@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports 
+http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports 
+https://crichd-live.top/live/tsports/tsfile.php?url=https://live-cdn.tsports.com/live-01/master_360.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvt1tJyj/20241008-193409.jpg" group-title="SPORTS", Tofee
+https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/dc316274271e75b874f404d085e8c19fd0e44559fcd3a82c85bad51fed6434cc.png" group-title="SPORTS", Sony Live 
+https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8  
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdWFvmgVxUvsgtkDTk53gn8AymliV4aPPntvMys4Ol9DHu0SsK2nK6l7M&s=10" group-title="Grope Name", SKY Sports Cricket 
+http://1.1usd.tv:34000/ch235/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO1g3jYg-zRf8aBHKZw6i5VNFWcHifBQ4knMRiqNvrXR  
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ve4nWezHoaSvbvgaIoLVq1jsQOjx5ogIA_iFhL8fvNHyXLqFFcqi9rqvOVbHko_zsJ2oFVAkrg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS", A Sports 
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7L4Hdkp3/20241014-103856.png" group-title="SPORTS", Euro Sports 1 HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
