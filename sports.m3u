@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/6538_cupa.jpg", LIVE-Sports
-http://103.151.60.204/t-sports-tv5.hoichoi24.com/index.m3u8
+http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/89691_gtv.png", G-TV
 http://103.151.60.204/gtv-sports-tv5.hoichoi24.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/54797_TSports 21668953490.png", T-Sports
