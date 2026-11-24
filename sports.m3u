@@ -1,26 +1,395 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-TARGETDURATION:4
-#EXT-X-MEDIA-SEQUENCE:799
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-PROGRAM-DATE-TIME:2026-06-17T17:41:50.520Z
-#EXTINF:4.000000,
-master_170020260617174150520.ts
-#EXTINF:4.000000,
-master_170020260617174154520.ts
-#EXTINF:4.000000,
-master_170020260617174158520.ts
-#EXTINF:4.000000,
-master_170020260617174202520.ts
-#EXTINF:4.000000,
-master_170020260617174206520.ts
-#EXTINF:4.000000,
-master_170020260617174210520.ts
-#EXTINF:4.000000,
-master_170020260617174214520.ts
-#EXTINF:4.000000,
-master_170020260617174218520.ts
-#EXTINF:4.000000,
-master_170020260617174222520.ts
-#EXTINF:4.000000,
-master_170020260617174226520.ts
+#EXTINF:-1 tvg-id="33" tvg-name="BTV" tvg-logo="https://limon-iptv-image.vercel.app/BD/BTV.png" group-title="Bangladesh🇧🇩",BTV
+gw:x-MR7CXhnqvn2aaRHFpIxmFY_dJ-fSP34q89v6BOnN3702lVn_91SA8CvrqDYjx852kyCY9F7id36R_On0sqDja0Es3xMLFPcJc6bg
+#EXTINF:-1 tvg-id="23" tvg-name="BTV NEWS" tvg-logo="https://limon-iptv-image.vercel.app/BD/BTV-News.png" group-title="Bangladesh🇧🇩",BTV NEWS
+gw:Xj0eAg9el-umB5wn7PxInXYUQ--GC_mlpPPK-9_pG1JzO79-U2Tpz0mENAWVJA-eNmgsLRV5L8Q46_r7GEYaVl7sVshrJS29ra1q6xDAmXsuM1X190UI5NiBAEhw5frOv92a3rYr2fiCOEey1d1mSJyY
+#EXTINF:-1 tvg-id="29" tvg-name="BTV Chattogram" tvg-logo="https://limon-iptv-image.vercel.app/BD/BTV-Chattogram.png" group-title="Bangladesh🇧🇩",BTV Chattogram
+gw:TfF3qBhMSEn08PbpTyU0dHo5-wURiR7up3zr8VEhoWQRbPuCYae928pgDuI2hNMGivFx7JKBEsZLiYz4amboYzs3wPTPX63KCirY09wfO3GBYtKg0bQ
+#EXTINF:-1 tvg-id="9" tvg-name="Songsad TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Songsad-TV.png" group-title="Bangladesh🇧🇩",Songsad TV
+gw:gbLDUR7nevxpXgNx_yD_-HFF89I9-xHK3DIoidPTOY80ISrW1c1uvoekkmgJdD5kSd_4M507yhf9Zl_xhQk3HrtzVoSUElRCTvfWOfStiB3fKZPlTt5_vpxChQitAZl8z6I
+#EXTINF:-1 tvg-id="6" tvg-name="RTV" tvg-logo="https://limon-iptv-image.vercel.app/BD/RTV.png" group-title="Bangladesh🇧🇩",RTV
+gw:jQ2kf7CBdyhwlZWsx3_QvkAU3KfpbIl39F15ijbnhU5ZIY72HR-Y6azSDEdFaRFq43UlPX2-nH6Ybrm7TPlR8cStZHn9e7g
+#EXTINF:-1 tvg-id="2" tvg-name="Channel I" tvg-logo="https://limon-iptv-image.vercel.app/BD/Channel-I.png" group-title="Bangladesh🇧🇩",Channel I
+gw:Im9U8rdPhIsEl74Fl6kaadzeZhSNS8PnS9d3_tzzV68lE-nqdPbEqgm4j5wzUKoM49kfVhd3KgtFK35Hkdmi0VByaX-a0Zcd0D4IPVhaItLnIIVgg0k
+#EXTINF:-1 tvg-id="15" tvg-name="BANGLA VISION" tvg-logo="https://limon-iptv-image.vercel.app/BD/Bangla-Vision.png" group-title="Bangladesh🇧🇩",BANGLA VISION
+gw:4ze_83Iyi73jnDgsJoU_zdU0FrG7EsNHSa0q_xtH_vWM1R7Jn1MqK7bNicctg1vpTa4pvJ4RFsSJLTYx5pk32Gz_yuuX8zlSUYXwKJjA
+#EXTINF:-1 tvg-id="3" tvg-name="DESH TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Desh-TV.png" group-title="Bangladesh🇧🇩",DESH TV
+gw:d3S86HNxYhRZyoTORtMiTbD4u1GGtzOJ1SEWBvxB31qSD9wC4s9r50FaAhGeFvLBPRfK_RyJfeeSf7Vsk88wm_YYml9NFFuzhvV52jyhihY_Q7fLRlI
+#EXTINF:-1 tvg-id="14" tvg-name="NTV" tvg-logo="https://limon-iptv-image.vercel.app/BD/NTV.png" group-title="Bangladesh🇧🇩",NTV
+gw:aVjuGLvHs_eS8b-XAvWX5UYDf6g8o13R3qmfIDQQKtuwfS5Yo_aw84R1ftvMKzbDGVkgYO6ETVgXoOhM7g1_W1mwgVX1yIR4LEwFSQNk
+#EXTINF:-1 tvg-id="4" tvg-name="MY TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/MY-TV.png" group-title="Bangladesh🇧🇩",MY TV
+gw:BMZ2nrDysMLfMY_SWajBnCRf-k7WbIXgfbo-CbXOF4fNzVz8eDaof_22uNdC5I4dIbdIGjFf224G-ar-5ZuqBBrNaH8CjQ1IDJkj0oP8g3DryrTt9KU
+#EXTINF:-1 tvg-id="25" tvg-name="Maasranga TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Masranga.png" group-title="Bangladesh🇧🇩",Maasranga TV
+gw:CHx9FlMLT-g_VVycFCQDpiIgo_EL3KECvnizLjdT779mDGhfjix5nnRy9AMZEseVHfSvvJ6uhTQ9XEqgQV_dkoV96Jcars7p-A
+#EXTINF:-1 tvg-id="160" tvg-name="ETV" tvg-logo="https://limon-iptv-image.vercel.app/BD/ETV.png" group-title="Bangladesh🇧🇩",ETV
+gw:YhS53b_b8kjgWzyaaKSsPJ4rTj6YNzBSzonmDNOELMR7_C6ELERatEp_Tgwa6xEise4VCyvVZHthuxwEDvvMMSPMujc8ihMrOhomo4Eo
+#EXTINF:-1 tvg-id="16" tvg-name="ATN NEWS" tvg-logo="https://limon-iptv-image.vercel.app/BD/ATN-News.png" group-title="Bangladesh🇧🇩",ATN NEWS
+gw:kukdSpcE_G6Lp4pWu0C9DGNB0opQG5lP1HB2aGYG_rE6rFlHhGvbcRA8yd9jtoRZ_mMkwMP3Go1gC_K_xDCtqi-cKFikugPrW_0
+#EXTINF:-1 tvg-id="18" tvg-name="BOISAKHI" tvg-logo="https://limon-iptv-image.vercel.app/BD/Boishakhi.png" group-title="Bangladesh🇧🇩",BOISAKHI
+gw:D_AP1qf_YF-o1P5UFpDEPyhVFy7_7Y2cuwVn4AI4zJluhESRSpfQvPsXVtsQLeI4jhOA9Tz1j4VProGnanrpacY45Y2G7MG1zFh7ErmjnXMJii-wNM0
+#EXTINF:-1 tvg-id="5" tvg-name="Ananda TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Ananda-TV.png" group-title="Bangladesh🇧🇩",Ananda TV
+gw:BdhhF2I99rQxVOyI42xdGsBl41tqzsmxUkSrO6S1zAl1ehxhQ8Ziq05QV5zPS0Yl_HsqV_09Fj9pDFSZXAFWS2KTrTKTMhhtM_52t6paJ24Af6zJfBk
+#EXTINF:-1 tvg-id="7" tvg-name="Bijoy TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Bijoy-TV.png" group-title="Bangladesh🇧🇩",Bijoy TV
+gw:8xftCF3LEy3FoHR2Vgg556FN7qaMziMmOhg9dQS3LPGfD2B4EfaKcQDo7nKyNeg6gYBqKUAHNaGxEN9HInjpq1bbPV6AAufO6-eZx53e7X9HXCxY6qPMBZw7-BOZRNVIGBvQXLuARZg26HDMZuOO_jO38QXH1SyVHisT49hItAfXHBK-mqlDi-eTusPA2K8mOw610WOeETV30942lxTFGrwIY5TQkiOdtVA_3bzM-86PFaJQ-UATGT70Ld3vC0A
+#EXTINF:-1 tvg-id="20" tvg-name="ASIAN TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Asian-TV.png" group-title="Bangladesh🇧🇩",ASIAN TV
+gw:EShJ3sYAT6XMU9-fuS4xXejl_dkGOhlVtnZ9Ea083tGf6PwqBhG2_V6HMzpD7ltaokxLMUlO-fPtxQLYGS9VLWmuXd8IPnQb5qxZzsO0D0v_BtGlrJJeCBI24l2G6YaAxrrLlwdSm47ZL_piJa3dRq4eCmc_A1LzSIo6RENIat8xuwKXeCtq0wKTKv6_UAosLsS4mmvJ3NpYo_zmb51BC9RDQKc0P0ToJUjLwh6QmFZzagfiulKxiXCPxerJ
+#EXTINF:-1 tvg-id="19" tvg-name="ATN BANGLA" tvg-logo="https://limon-iptv-image.vercel.app/BD/ATN-Bangla.png" group-title="Bangladesh🇧🇩",ATN BANGLA
+gw:VxzCY0dO3xhCSHrynO44wkKsB4E5N7icmaqbdfdSvi0AaxUI3YArBeBnqAJQfdNkUB6AgNu8nPKF0D70zwMfdu4L5wZ3u2vE-fQiuqDmO-5j9MgniwhK-Je9D8kRjxLM48GEG8b8IuiTZ-pbsW5xxhdZQRZqMQEB6inKUt2BETFbqtYFYeUmzdQQbD3Iwu5q9B_SIj7H0FaWttzyu2N2M-ubG9oYnl8u3JGJH32rSxYz1JmolS2R0ZiQFK_HF0lxFlPYzFqXuw
+#EXTINF:-1 tvg-id="1" tvg-name="CHANNEL 24" tvg-logo="https://limon-iptv-image.vercel.app/BD/Channel-24.png" group-title="Bangladesh🇧🇩",CHANNEL 24
+gw:bHGCgBkzb3E47SfgD-jC2JIX5_q4byA8kkxnpmJ9IkQbdiSsrQfOhHAIwRwLaTYGi4tMAroartRl02XBHHBiClsklIw3RYyrzZxvblYN
+#EXTINF:-1 tvg-id="13" tvg-name="Independent TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Independent.png" group-title="Bangladesh🇧🇩",Independent TV
+gw:A8KCf5TnDLp_KtlZ7X71Ne6NPYFJLFVQziPuPWQfP007As4QDgF6f6wTFx3vtYOqVYJ2V2jh51M2pYmV9psANBDwQrk-zjMmvHSwHRv26QycwN99JAmEgQLztqFTknvwmy0n7GnG_lYHWP-XdDOM1R2HHBufbdOQ41QlGygcf3yMB4zrin_cg2bSIHt6j_EXvnj7I_UwZEBb1wS2NCTTRBU89nBOGSjbeelwE2p5TW-0C3OoMejak5QU_NDKPw-myg
+#EXTINF:-1 tvg-id="12" tvg-name="Somoy TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Somoy.png" group-title="Bangladesh🇧🇩",Somoy TV
+gw:Kl3HJVTmb4SJV7QEc9xIAgQEf_Ghn1K6a5E8fsqBZGZ_378PQdDekGC6wEHpDD1J9EE3FTzrxLb9y6tpX-1IafqctxFug36489bKc9O8cnBEWRr2VAY
+#EXTINF:-1 tvg-id="8" tvg-name="Nexus TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Nexus-TV.png" group-title="Bangladesh🇧🇩",Nexus TV
+gw:Rm_KTpNWXMfvZVBAXmiXHkMNigGbtQQsDZ9XvhxPdNcyPHVRU5IyXO7-orznNcPwoniM9ZTYZkgcZONYDU7MwcDwrwCucq_HMGs4InhiBl_QtuDm4g
+#EXTINF:-1 tvg-id="22" tvg-name="Gazi TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/GTV.png" group-title="Bangladesh🇧🇩",Gazi TV
+gw:m1ZYTdJTtBVozp_NvFoS3LoEE-_NnboycMWbyUeebFGEdx3JclGkbU16yrM0nUnqrtIEhiif8nMYzzAmHECD_kNRLFOmE8XN19P8Cap4-bIL-TJFDcgn_v5_qLyIZL1YnQ_AwS_cJZRvHJqO2-TlFAf_y2KxOy-OWYV_7NylMaMEEdvnQrfg1UpiFchltaHONpGszGsxpSCWyb2Zf5GrikBUyUh0Nfuo9U1O4RPFNvGK-spMQjTgnrDu77rmQqwHQ9rhDDww
+#EXTINF:-1 tvg-id="17" tvg-name="Ekattor TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Ekattor.png" group-title="Bangladesh🇧🇩",Ekattor TV
+gw:V7No0bKSPpOIUSvdUwjpEbPFfwhgoBQtXngEec6djCTHijzAWrCJyseVDGo412fwxHdPLrevbQ9VSqORC1ywZkcv-6yF_agzm5oVglqh1LnyXToYkYY
+#EXTINF:-1 tvg-id="21" tvg-name="Channel 9" tvg-logo="https://limon-iptv-image.vercel.app/BD/Channel-9.png" group-title="Bangladesh🇧🇩",Channel 9
+gw:MVGChzjmp4XcMQYZPExPvLEbtQYacGg3XDTjjya-w51jBL3t-lfqNt63Bl0nQhhIvwSykOdV8ArUqeWrJHQ8_Grv46oa10OvrVHJANrf1_UjqgzGB5PgoHxUM22Np7EN_Lf7
+#EXTINF:-1 tvg-id="24" tvg-name="Deepto TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Deepto-TV.png" group-title="Bangladesh🇧🇩",Deepto TV
+gw:a2Ng7oXXRzYaACJG7yBfeQej8Orx2tmGEZg6uo3Tey_UjfWn19KS3sczt31eFHkfBjAS13trhqQVRuF3t9ZlOhZoYgPp-Gdw771vu_AQHT4
+#EXTINF:-1 tvg-id="32" tvg-name="MOHONA TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Mohona-TV.png" group-title="Bangladesh🇧🇩",MOHONA TV
+gw:QA_om705XTSK_HMKRWcRzJzPBzVROPH8KH-WrX1JezeN_CldxTsw1whZ1_4aV60E7oV8PTydpW_KDxq7ONo6LzvaRJHMuWTlBFxf80d2PSc1Q3spLRhv0ccd66WsNSHeSpDpVw
+#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",SA TV
+gw:LjKEzd9KK-zlR3LTiEoCnVtUYfZN83UF2qaAXL16zckITJLfoR5IdGD2AVG0QASGQnSiwKMcI3SOinT8hKm71Y3l9sY7v25snYl8Boi7XkQGOxl6vsfSRskPCeq_a7P8hKgAtG6Mq7g8knjjQ4snqaf0c6pcLfs6T2jlpDafOqlFZ3lRjYQCmKubsNz7V89rMj3wsxc4jJwr0j0NCqd_sDKcTEHjQGudvLUEpF2drOt2I2C9wq5rPOQlzX646M4
+#EXTINF:-1 tvg-id="" tvg-name="Star News" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Star News
+gw:3aQaVrDEDi5--47VKO6Qeb2xYeXbARXwJfX6B3qIFQR0QqkcM1DsITVFhixRHtIzBHsZlle8dd453-6v-G9iCQYa55Jfo9Nm6I1uQhRTAtdX7mE9JrAohfjEdgA5elY1O-g3Su3vvGbs9y1_cLov8Q0UQYOiyFhfBbGqVMklTfgTaT9NqrwatongfKKL32p8NDnjSqT3BgknXbmigkLtzCWifCdZZKbTFUMaJgmVHCkd35HL75oXd6fJukJ4VRKelzbpVd74JaW4
+#EXTINF:-1 tvg-id="11" tvg-name="Jamuna TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Jamuna.png" group-title="Bangladesh🇧🇩",Jamuna TV
+gw:epb6FK4h-B1s-a6IoEehG3HqHHV6FNxsrtS5v_YphhGdNzBM0X866SBwQQ0BYZ0bDN2VJ8HvyDuQQ_3JMcRtFZKblWbucvdx_vpEhNKA7Aj88Jdaaj0
+#EXTINF:-1 tvg-id="10" tvg-name="DBC" tvg-logo="https://limon-iptv-image.vercel.app/BD/DBC.png" group-title="Bangladesh🇧🇩",DBC
+gw:Rstgn80FXTW7FLzDSEYfvasmdBHTM2xD2Zzf-FJdVKA35DRZc_AwVDtnH-W3-iZRXJvTbEIu-hPqMiwV6Wgg_SvYYHBfWDd0D6D2tQFm7eVO-aOz5mU
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://limon-iptv-image.vercel.app/Football/Tsports.png" group-title="Bangladesh🇧🇩",T SPORTS
+gw:-U_YE8nBg8c7V6MKFQJbaHyDrXTn8ZrZWN_myc2qgABaHIBkX3mgF0q4VCNQDsUoHddQTTWwRvHUpuzMEx74IXP6wZA1El3YpJxWokMTq0FOVUBJ0rqVAFFuhNH4L8uwla0k0i6gY39IyKltftPmLknP_IbEYGdvwCqwete6v6Et
+#EXTINF:-1 tvg-id="26" tvg-name="Nagorik TV" tvg-logo="https://limon-iptv-image.vercel.app/Cricket/Nagorik-TV.png" group-title="Bangladesh🇧🇩",Nagorik TV
+gw:zWtyMwbyHyqP3sNVi5bnN0X3xo0u8EDOc_Zo3rMv5pfuTnO8p7sqwFvtmNa_v8ZAsir26fSwtNNFCud9i6QT0lJC3EodPemhS0Tu5Gsm-hFcXMQ
+#EXTINF:-1 tvg-id="27" tvg-name="Bangla TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Bangla-TV.png" group-title="Bangladesh🇧🇩",Bangla TV
+gw:8RPg9KeA1ZibxyfRcDahHpNQYP_6QXDU4Yi8N97EO1Wm7LVf0zO-nB-7mC6Xr50FORmv8_qKep7nW7rXCSL6N7UrJ6u8WXbRkwZXysIGqqpvBqWBaxCzULNiPrzJ5f3JY0J4sA
+#EXTINF:-1 tvg-id="28" tvg-name="News 24" tvg-logo="https://limon-iptv-image.vercel.app/BD/News-24.png" group-title="Bangladesh🇧🇩",News 24
+gw:yJpgKSf5mHn9XTT1uCMNMnwQaaQm2WjhO9znQdf7XMgsgF9qPp5Pbbbs3swx-rFGXjLgpryTLvOdGFjs_UDdLnsEYefI8lZi5Go_XdSUAmmzL8pA4HA
+#EXTINF:-1 tvg-id="30" tvg-name="Global TV" tvg-logo="https://limon-iptv-image.vercel.app/BD/Global-TV.png" group-title="Bangladesh🇧🇩",Global TV
+gw:GXX5WbMKKmNA9UEPMKosTmDpvyoWyHfl62DgRt-leOgpiCiMY6G8sdyDRsR32jByWc3YvpvAaucZTbCZh3TkfIe3SJ29w_2i6MaR6d7crOljEPDNDaM
+#EXTINF:-1 tvg-id="31" tvg-name="MOVIE BANGLA" tvg-logo="https://limon-iptv-image.vercel.app/BD/Movie-Bangla.png" group-title="Bangladesh🇧🇩",MOVIE BANGLA
+gw:kfhxDJM8mWxNYBuFpAHUnoBIs6ZQ2nmDf4Ch6Geh6AtU2dS2_V8c97RXuWxXu1Kxy2HqEss0KklgU5_ZkXEuHk60cFFbGCU6DCWV
+#EXTINF:-1 tvg-id="" tvg-name="Ekhon TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Ekhon TV
+gw:3QAbsBP3SEpzEasza63dh5JEOdzTZ94k7b7S9vFUo6q_C5NTCHs7L7-NIrwVFmJkO5rA9utg397gX5WyqOyiPtk9bE894nvlbDL3-XySqGkszNM077M
+#EXTINF:-1 tvg-id="" tvg-name="Channel 1" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Channel 1
+gw:wk0obq2ACSVOmmEoSgQOqY81RNQNLIDJfvTTMPA1u8G0xy7C8tceUQ6tS2Fr8mzEJyaPZIgVZTVHonswxpPfnSYlHaSg3vZvmNky-I3-afatoJ80AoseL0v31v0jRcW7Xe__fKuPS-HCCQGKN3LDVW7Ai5zQkwEEBm2Mrp9qLUHjyvhw15b35N9iZ4_FoNXIkwUt359-IOwBsw_qhMdTMV3onaQvj9VW2_dpr5neH9e6-zmINar1Ru_fKXmns9frj5-n2HoOEzzT
+#EXTINF:-1 tvg-id="" tvg-name="Enter TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Enter TV
+gw:3me2aoWxszQvxR8VXWVoy9KwY51hciWVEHmefcQpIIujsAfBfihcnMqVDC63MPJUf4oZObMp3WpTioqqZbc9eLPRdKHCGI_UCaTOCGItVHlIq1rssy0
+#EXTINF:-1 tvg-id="" tvg-name="ME TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",ME TV
+gw:lkHdIqCABHv2LO9MGVtQbuV38NkgCzPBe7daephwkjQD9IM53RnzkD0cj31-QBjremL_1KwjM8KqbbqSt47Lvy6r
+#EXTINF:-1 tvg-id="" tvg-name="Channel S" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Channel S
+gw:_LoNUo-JogObm0QscHgQFug9qPQXP6KNlYhdlO7IyMnkf7AduQAb6azXcY2ZGtrymIC4O4pNDTSwBBqVljwrTFg3o3L96YQvXnTFSB1d-iwVlvRFV6W6oXeG-F-zESyTS5J-iyE6KZWTTqXoiyRHf7qCRgM
+#EXTINF:-1 tvg-id="" tvg-name="Jago News" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Jago News
+gw:gB5ZlCU6jpSk1ilJQYDZHClTe4qH3PXYG5FdTZ2xDKIl7A2tLn3BjbKmRCmOK_7hIXrwyNMZ9q-2rKsKSkSapuM-rt0TZzfpmR1duKu_ORraRI_TveH7Dii5cZHM
+#EXTINF:-1 tvg-id="" tvg-name="SRK TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",SRK TV
+gw:YehHIrwH5GASXtz6CzZdVz1DYVMCb3pPwjDqC_26xctJdTvGBgIQtCMDM2cYIQY0UPX343gWzhozwjf3otYYU6we18yjFdOFX-vON-VcI54Ab92lq125OHBDr--jAXNrtA
+#EXTINF:-1 tvg-id="" tvg-name="Rajdhani TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Rajdhani TV
+gw:3M9L1ZXen4xjkpWh010CevvKuzwzkimSN9tt8QoYzMU3p42BZvQXK6UrgSnO-CCz0lZr_Hx75WeOhMKZYw5DWgzt9BjkT0NVfknZXvt2SzSufA
+#EXTINF:-1 tvg-id="" tvg-name="G Series" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",G Series
+gw:9rBNRZDdZrrV5b3Cg8dLEeq18xQ4H07tj7l84wV2MSJfgHP3b2V11b0y707Z2Rs9haaWpgkQE8iGj_GJp1DAdXXGhDXAn87muilw7fYTUoxLvEJbBa1hVQ
+#EXTINF:-1 tvg-id="" tvg-name="Jolsha Bangla BD" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Jolsha Bangla BD
+gw:2peJCQFDjdfZp3gWfmp8lxKJ-oq3jsODFt5jRbkGp91APJK2T86amDO9KKqkfz5juPIlhAkEf7D15icbD421n80I2GMkCJbNzQmwaw
+#EXTINF:-1 tvg-id="" tvg-name="Matri Bhumi TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Matri Bhumi TV
+gw:ECqmA63OKhDUQGe5AfANZYlcL0y0mguiHQyMD24pEHV7xN-c-6zPdJgwZ6KlpAoq1CnZPWzEvcRgVsU0JHWoaBRPH71KrhM830dvYwjgT39ETNVzZn8
+#EXTINF:-1 tvg-id="" tvg-name="Deshe Bideshe" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Deshe Bideshe
+gw:DBH50u68kZWItbivlWP0eHZzvPsujwuwTKa7Tb3ztAOk4iJadul5xktxePkCDK4GTe3H9GD_qbgxgahL3PlRaSxyXcE9qNuZkxd1YEfpesKN1pcTE6WmGbY0tA
+#EXTINF:-1 tvg-id="" tvg-name="Channel 16" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Channel 16
+gw:KhIag7JaLdrBlOhhBa_wolxDBWoCf8f3WSxVtOJx0bMZR8KwZz8Gxp6D5QHTV4aY799tD56y5hJhfV2pRqM4VG8dkVe1M_w2QkqzrrQXAsyFPCOT8OHadrlKFBPWwT23veoBxbVVdO5ismaSa4TRWIGfXK-wqdH8tIRRWUyG3JE9D_5VhOYTiqjV6PgQbPSi0h3jrptVter64AOQ86yZsMCjcw7q6xbk_1XS1VUBtMpADIZ4in-7IS2L6jUFgi9OZNLZB9BasUlpmz5jWmKw5Es
+#EXTINF:-1 tvg-id="" tvg-name="Amar digital" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Amar digital
+gw:O-JA9M6pr1NBsU20Nwpt36QmDJYynVZzunYEsptxTt7N4TrYyta8ofiXayePpP4byA68a8_UyLHLgZyjLJK8TEbe-w3jLtuC03t5nIUD_qyp
+#EXTINF:-1 tvg-id="" tvg-name="Channel 52" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Channel 52
+gw:_V5v04TjMFkBPCSSaBG4xAwTt7QkKV8D97IQ5-RsPddn029U17SbyoV0e015q7VAoIpV4D3QiJzGeFhYyOKBvSBFfeoPwP_02-C0
+#EXTINF:-1 tvg-id="" tvg-name="Deshi TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",Deshi TV
+gw:qTiDroaX6okaJRkfaOOWP3q9plUFoW2TUY0NWd4esVvDCLO8ZEfki__JSU_kQ9pYfMAoKF3Pf6d1vk1HTa-ooRVetviIrd5-tZdBdwwptQdMD6jxxw
+#EXTINF:-1 tvg-id="" tvg-name="NRB TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",NRB TV
+gw:PhjAbXjSjNaaSlGuFpXNUPNF2VwGrkZjn1BPhX3kiMCbs3TrM665zV_caUC4YhvOiz136fbNTbZbVqdiwc_OOA2HkcYI0HcmPvMNjgapvrm0ARAi6UpABqWVI5sQWulfNA9fAg
+#EXTINF:-1 tvg-id="" tvg-name="iON TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Bangladesh🇧🇩",iON TV
+gw:lleMu6Bqf5Nros3E5Q8bV7GHjZmNkpMxDLayCSB6nYFgvdG7wMlSg_GkOrgB40Vm-6C38zIinFYyTaY4x8vHDKviEsWcc_RXpGxud2GJ53oN1fbhizpsbDLm8TDQMgsJWl3cuQE
+#EXTINF:-1 tvg-id="50" tvg-name="SONY" tvg-logo="https://limon-iptv-image.vercel.app/India/Sony.png" group-title="India🇮🇳",SONY
+gw:LaZqvm9A23yJAyOlbg400qZBQHaoGR23nWy392wIo8siVa0vCTm_JIPdhDLnSTItayc2rY8kQssD9HnxsmdrRr41Oc05DDv35A_DQz8ulvwB6bzgsGsnSGDvkOGcB8AGEpRAGHffYVy5PEmDTTRtHVZXahm2yRG-YU637C6cAMKrUZrSypjlkQG-6NuGi5NNlP9JxlGiu-qGkV__
+#EXTINF:-1 tvg-id="53" tvg-name="SONY SAB" tvg-logo="https://limon-iptv-image.vercel.app/India/Sony-Sab.png" group-title="India🇮🇳",SONY SAB
+gw:-fXTqxaPWw34kH_JK7hhJX9BmgQWaAqyI3ORZ38LmdJjhvEuaXg3IX0cVFNlJAeQYUHswgT553LWhWS_UAPuX_0V2Z3zSqrud-UsJcoplOhFQKr4_D5jVELiY0aKsljaZglG83ciPEf-24vYaeuQW6uCtECtmFy9J1JEIFYQY0PN_-uJ1A1kEuOymKKPTyFxWReXltUhgg48d33H
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Sony Pal
+gw:c4Hgm_ZFOqSNQatCq-ReRpDQ8HhZHEV9uj7gpmvuYOXIP3cP0wBwc57PjyXcouFVqyoVkemn6gmF0oXGYMtboWwC7qDXzcpIneTktuh8G29BceOd_S7Tvxv7pBt8gFrls8dVOzbJ6ZkJYez8vBolFWDt4XP5Uw3BMt645ZGGTlpDA0PQ2cTHgM4wK4xNixcYVHIg0Ll5sk5-XphX
+#EXTINF:-1 tvg-id="69" tvg-name="SONY MAX" tvg-logo="https://limon-iptv-image.vercel.app/India/Sony-Max.png" group-title="India🇮🇳",SONY MAX
+gw:YZAMrCniwvJfmv9G6FOdZzLL8Oph5_g0PZecgy6iL6SggdyZNkDARNAY-r7zm3uNnArnz0MCtXxtuV1Mpf_ssubBxoIvZQSjJ6W4kfbDZp-5WIKPUjjJxzyEEhp7HtQI1ghqdP7IhwodXtzyR-11mFr0Hokllsd8wmi03ErWlXQheW37RnaBLexIjBBRfI0F0MvOsQcjGDYriXQK
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max 1" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Sony Max 1
+gw:0lPCWeGX7kF7TswiDA0hheP3FMWzhiTA5knnl90pHCFd3-fTQZnWjYH7nowowj1uY7WboQOizjcV_MuMYY-e20RnC1KgxMCs3VFnIMHtYw
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Sony Max 2
+gw:yu0ahM1wyCYItEYrwndcHwrOB2-IXMYYoxooXiXfCn_WJfecKkklN4gPppwc7NBMYPyeDtR0s-HzGz83tsOdN2fR8D3X3KRrGv7O5pSb6NCk5AmVZ_M9lGNO-dsEdo0Zwf5OuCBxsZvPVNwq-0831W0ZjYdHv7QKD2lRtRA_zqsTEEBS2UttLhPJUhUHnWukOSrIeNdkvk5OIPFW
+#EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",SONY WAH
+gw:3R68dbIWawXmU942igfttESnCUDbwVJRJ1aDPJcK5kjECnoR-TCZVcK5nqQ4GLmTLzZUQVlQwObaAzDEdNMqhjg8TBixVIM1cbYa0-Q1VWaEq-agabSxoJxrB2Wg6xw2hkY_kujv_QUINAH6yIMbd1G_-_FI6JZOODyxCNP313e_S-NehAunrfmFb4Z-L_zJLxntObGsaboh5QV7
+#EXTINF:-1 tvg-id="67" tvg-name="SONY PIX" tvg-logo="https://limon-iptv-image.vercel.app/India/Sony-Pix.png" group-title="India🇮🇳",SONY PIX
+gw:qNCK73Dji92h_nZ42z8eV9AkoBDhp2U_8VjQvP7zZOrhUSnQCrw-85MU8Mc5DW_epJQT59_FbnXKaYyNv2MI35-mGLlXEBN8zBNAeVSD4Cnq7k6nIOn916rIqAqc9487oT0JfC1OzzVeduQxoCr_P16gPbzLX9MBIzYmeZvpVTC9ez8bG03gYK5oCX0GEzSTpsVdS8GbRIbX4PsvpUDCW2PyE7B6VkKvYL7g19lhPwcy_vCijCYZIxguOemY81AcNMSeCQFeE4RgjXs0tlrqmzEwNrdeMdPWKiFslt6mpxJ4vSGROnMhmxkeTTylg5kLY9XXkf3_CIgjcygshyL8_bCYtBst4GKiw0S2kP0IQcvjdUasz3eox7q44dSKQIwjtTSdQUr0ih-4h1_QBQSAtRE
+#EXTINF:-1 tvg-id="" tvg-name="Sony Kal" tvg-logo="" group-title="India🇮🇳",Sony Kal
+gw:f2aaq0D5ZLbF72XmtZmJuGhrmbNJslshwmVktJOezoiRVT2bpPzv2F6JAw9FsDihQwCKek7G8G6_XJeiBQbTGFVwbGTarJ6RE-FUGcZia5nWGykcDuJwwmoyeYXmKkjof30ViPZY3Rf7aq1xKowEqUNuIbeNcS2jYZeQN6xhjpcdN5Hvif_79dGUL3evb4wpXWyvVQkz3WZwyNEs5w8G0NiYyw2n7UBqbJv--SZweGaR7e8DgjhYYWKGrFjVTkbM83E
+#EXTINF:-1 tvg-id="" tvg-name="Sony Marathi" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Sony Marathi
+gw:u6yi-Is4PhwPcHE0AMJKnV9hRA4Nh_GkACKftWWUw7c8bbj6cGpAM9pN3iInsaFycNxl9YgpkgyGJnamHGez94OZ-OOTg-0MG4WMSMMsGU1W-y45AclL4HywWdtdDYSKcuSEM3RXLIv1pCujZy3BRi33c4NUWZBHgRPx6pP2juwkF7Ly6z0smWYrIhzC4xdxSpZOFS_hvxpKdd-0
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Sony Movies
+gw:hJK1nACVZbAieknhECuubl4YKyse8ELU5P4RvgcLGHA-2DIzvQK42MCmGcCtH9YKLqvtXNmvgMVqjtMWwaIVh4zZd5_5fa7crlw_RSSUwaw
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Hite" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Sony One Hite
+gw:f9eYexoShHktTEbH_2ociHp-I7YW_CNtbc__kPWCCBuhyaFTja8u3VscVPLB-oEh49DdgL4m8Xk1F5F7j7eZ-5RO_vkQrWlcqPr5AAumo-c4HshRZ0dTP46n1Ouyw4Im6HPc8vKcwcH3ql_yB7hbrzZm-obsEYfr4m6o3cBiVv2FQJJRchArtEltWkPN7cq1xx55G2sWrfVwolRtLm72P0nR9Hwp5q03Y9tLix8tz3i4emayAYTG11Pq99nJQa4Q-zc8dsBVtBIr4uMEK3zbmsxbmg055d-4V8U
+#EXTINF:-1 tvg-id="51" tvg-name="Colors" tvg-logo="https://limon-iptv-image.vercel.app/India/Colors.png" group-title="India🇮🇳",Colors
+gw:oxCQgIKDnKlX-sOWLSBPqf9hlz0_4b4lOUZHn7nSFiq4idZAWfHg90yVAPceLmUU_p81_6vMn3KrJgnjCNkL18nXvUWE-nqfCzUz8-IKhrIRsWscIZDu_VBbE31hDK1p3TfvbKX9mzelQFA
+#EXTINF:-1 tvg-id="70" tvg-name="Colors Cineplex" tvg-logo="https://limon-iptv-image.vercel.app/India/Colors-Cineplex.png" group-title="India🇮🇳",Colors Cineplex
+gw:6yGaJMZxKW-fPJhzQUdLpeqNGoUdzFLFlcZAbMuMzhicRCuoGhp3OowT6Zw2QONcCdHveGASzfRjnQ8v6cF9ZTBz2eYPWHTEnbzgXD82Si-3BCythpdQe2X48Sw9yXbE6c0Xgxk9lQmpDrUTsXCdZpatgnCLVRs425X-w7osHi34z8R1OuwScBfvzNAHOZRUV68KZg
+#EXTINF:-1 tvg-id="62" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://limon-iptv-image.vercel.app/India/Colors-Cineplex-Bollywood.png" group-title="India🇮🇳",Colors Cineplex Bollywood
+gw:oZz6n3mWDzq0hIyU5sDcBCLRXEyrJNr6EM5jZbMvqNrfbhNH7EZFALdjCZVtxAzBpHjakcBccvnHQ2LElWIZnGAYVyxNU_Q_TRZYnDJEHQ
+#EXTINF:-1 tvg-id="63" tvg-name="COLORS CINEPLEX SUPERHITS" tvg-logo="https://limon-iptv-image.vercel.app/India/Colors-Cineplex-Superhits.png" group-title="India🇮🇳",COLORS CINEPLEX SUPERHITS
+gw:wHQHiyiov1fUl5D78Te9LHdOFdICREMifa5oRlxf6KFGJqNH2C5xynLx3kwlv57MxWCpsPb3XiMBCcKBDsnEIkaEMHbLNzLAdBsQx5yrHg
+#EXTINF:-1 tvg-id="" tvg-name="Colors Ristey" tvg-logo="" group-title="India🇮🇳",Colors Ristey
+gw:mPgWcKu9lFldpx3xwphVGjSuVdiGDVScAe9GG1xclfqITlCYu4RaF0FFc5_Z-8im6adkT-tyzrL81o5TSc-Pa_VhxvePhg1O-M8SgMlMV8dYmHRDIz-hvdDwgXVPZDhbCw5yeN16UB7l1HHwS1F1I9M3OVjQGbtctnhJ8otIe0ia
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity" tvg-logo="" group-title="India🇮🇳",Colors Infinity
+gw:Hu0HQ2y3LiP9LldUWc5-JlySnedO0c19BbURVqL-zaJZrksQIMBu39iAZuPO50chshRQG2FvbBsuabpqYlTh436bVSVIJWWXmkUbFgaY5v4BwHCcoaIilqoj6pdrHysBcEYWguEtcSdK0V0QVSYULA6aNtmpQIeUDaHiTLSYAr9L
+#EXTINF:-1 tvg-id="52" tvg-name="STAR BHARAT" tvg-logo="https://limon-iptv-image.vercel.app/India/Star-Bharat.png" group-title="India🇮🇳",STAR BHARAT
+gw:0XT650gCTAwU1kZ8GW5_NzMAQik_8QopVEuparQanQtm4cr5WNEqJ3CLq1CFkt8jZW3v9kJeYBPXeORFsdcCLNeGpsEIKaX-JzvP_-QxqwqSdKTCot8Q2d6q-DZUEFDupjBHqFRY8X0JgZN7GOkpTgMwag
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Star Plus
+gw:le1uEwu45QmmlVuL16ovozgg8EZiWPsa3wwtUw-DssZVvkTrxfNixYdk8Qg5t_U1EHk-5On2dSdFZyZs3q4s9qiXqZ7Y8AjU7qdYP7LnurIpN2RnFE8fZrS_ZPM4jtkxHZ8yjMJGBA
+#EXTINF:-1 tvg-id="57" tvg-name="STAR GOLD" tvg-logo="https://limon-iptv-image.vercel.app/India/Star-Gold.png" group-title="India🇮🇳",STAR GOLD
+gw:UgQAIweZcc8K_tLXGDbXjVyxdEeD4fd4wxb1ttYi03ddiaJyxgVGrIwShhS9TTf0ZTz5UOmktsChh2B8U3ihDWmzlecHo-ZLVmgcaha7olV0agWBBeIu3ACKwRqDrbDf1ucgk08XTE_lCK4shtHGSa7x4088szc_0KM-fgMTkEv0
+#EXTINF:-1 tvg-id="" tvg-name="Star gold 2" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Star gold 2
+gw:G9EoZz54jKD8kKzkaSsC1Mj7l5SLVOCEAJZ7PQJuVecSiZhIm0vfng6lW-MIzovnCMliMEJKkGIQ54T08b1BisR0eYS0nyUUn6O81B3vqaavU0fLpGc4UAIcHwQDosOjCRHpUhBmLqRsKc87ooosEDqELp6EUIHGwDroddCPq_ST
+#EXTINF:-1 tvg-id="58" tvg-name="STAR GOLD SELECT" tvg-logo="https://limon-iptv-image.vercel.app/India/Star-Gold-Select.png" group-title="India🇮🇳",STAR GOLD SELECT
+gw:HjY-Tu3MciX29GNEIZO3AzLH9Lhro5l5DzIzSJbX-OesLUiOsp1Ox6SU56V3VnerjCN8bSiGiIr7qYm9cXneRwI1_bj400mUSC4l8FdoXXz-VJHP-QG6bj4XVoBq5tLL
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Thrillis" tvg-logo="" group-title="India🇮🇳",Star Gold Thrillis
+gw:EpC2e5c9E9DzGDHJw1gdema-XlFXX0_NAFGPPWx2TU-1jofL0YiRWA5eyJMH0X4vEnHLBVqxCccIvul0F4WU7WXeQDag3fj18SjyTDUREAN51MkLRSIqKIUYuqsVOfeuOcj8JoLu8veoRX9YYks8F-rctmiw5kXoY4m04Kz8pxCZ
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Romance" tvg-logo="" group-title="India🇮🇳",Star Gold Romance
+gw:_2Rjni4iF7Go8V7VO0WVsx4-8bpJtlRI0rPYp0SIoAqfGamhxkWOyIMiYBlXDsUoF1BXK59VQ5hCYBzuP0wF4vJr45Hk42GZmQspBfmiJOyPCSiUqoD36UYfR00hevMZ7NUqoMPjyAoFuQGT34PomNFrcT1HKeazQr173hX3ou0iMQ
+#EXTINF:-1 tvg-id="" tvg-name="Star ustav" tvg-logo="" group-title="India🇮🇳",Star ustav
+gw:Ep81DfB-dYtdLuNUsTmL5zYTF2NKoWeM_UupVevmjr5SJwYAak_Dqc4njqSPpMMIYRHdWLSN_fskzZnZKwrdlnE6b5KJNFqjOU8SH2_kfU4_hpXJTd1ksTmn80OtWdAMykFqBaQPmPWANKinfzPCLHeD2OWX-_IX7V3ecCB1GrDu
+#EXTINF:-1 tvg-id="" tvg-name="Star Ustav Movies" tvg-logo="" group-title="India🇮🇳",Star Ustav Movies
+gw:WhpwzdsUnlY9R8wHAlqzyLOQXZ1jOTTaoD5uNVPc-pyID60D2kUEP6tsD-Zc_YUxjYI84VWEjYWa0ZI2W9jwfZQYSSStAublg9b7fdgNHaf3xSNi5Mfueyd0fiJOJ2F52Qwz3y1P6zdmurxShlBJIZF6-W3RKIOE7R2v1Wg
+#EXTINF:-1 tvg-id="66" tvg-name="STAR MOVIE" tvg-logo="https://limon-iptv-image.vercel.app/India/Star-Movies.png" group-title="India🇮🇳",STAR MOVIE
+gw:_DivE4lB7HXvGKwEn6E7udRRvYPdpSHg0zcZMQNeOSF7A2JRJ7JxMYg4XWO0QFMGtx_Q0WnVma-0s_bS1qmD9mL9iELvBZEtc2bA2WWFSj_LiV9Ry2MrT9UXI9z1koMBpVelkWVYho-TXFiopSNvGwuWNXcVQ-RIYtkbDY9E754b
+#EXTINF:-1 tvg-id="71" tvg-name="STAR MOVIE SELECT" tvg-logo="https://limon-iptv-image.vercel.app/India/Star-Movies-Select.png" group-title="India🇮🇳",STAR MOVIE SELECT
+gw:M0KrPsK5g_TToEjk-gLE-yW8AjAsTJMKOrbLnTZeEd_1wj1xMpdjv4Id9UI8Y03YYizq02xLBZrDs-b-4Eo71sKXNFnAa50h1_3BS3JLldmzeRzNYtCgftzsyyf55QyDTdOrwHANavEY5qDJnd7b41pmj5syepVpxpr70qXJtIz4
+#EXTINF:-1 tvg-id="54" tvg-name="&TV" tvg-logo="https://limon-iptv-image.vercel.app/India/&TV.png" group-title="India🇮🇳",&TV
+gw:3m9dS1s3QmiMMCzIerOHWEiKtDolpB4_csjoSsOz8ZCGH5UFGRkfiWd9Ki83azdinVPPYzx_a5qvO9dDo1Fc6rpvE_4H_4ZcR78UkypMRxBODWw8X7KDdCtXZ9Mpm_MO4UkZOgFaprXY5GdBXC7FmPLJD_EXqEmnyWUsShI7OJiNQaQ4-nYQb-Fq3nBLSG3PA3hqLDV1z8Kmv1OKd7mpIoeeDbknj8qQetLlpDBZiSqFomSXBwcuU864gglLMtuqN_r7kwK3zWvP
+#EXTINF:-1 tvg-id="60" tvg-name="&PICTURE" tvg-logo="https://limon-iptv-image.vercel.app/India/&Pictures.png" group-title="India🇮🇳",&PICTURE
+gw:IjKVijhzbqyV_eO0SHpSZ2KbNLYff_f-OckDgSRHfWxDiksnN2bGoRzIYR48aKMe6Tyn_UWhabnWI8OGwtbB22UF5TWZkvoO42gVkEmr-FwsYCmMibJ0OZf6Hh_fICVJS01w9T5Jf9KkEhlRXt7t3fCcKT1iDXKh0EyFmwBJn_5m
+#EXTINF:-1 tvg-id="61" tvg-name="&XPLOR" tvg-logo="https://limon-iptv-image.vercel.app/India/&xplor.png" group-title="India🇮🇳",&XPLOR
+gw:YoJ7ys4aGUQuAkjjCo6X0xtFiNJCxH_ci1YbxHg1F61URltzI1DuVxJ5-iYbXxtGyeTZT-vAzsoeLS5-sCVV4R5-0xi41TAzcbMEJYJEBRMtZUn-quej6-Ui3orArvQX3oTZDKZ8hobrJWuYy-N86M3Jkvv1yXaeaZR7ReD7zD_z
+#EXTINF:-1 tvg-id="55" tvg-name="ZEE TV" tvg-logo="https://limon-iptv-image.vercel.app/India/Zee-TV.png" group-title="India🇮🇳",ZEE TV
+gw:jNHGtCQG1OgtDJry8GM_e_oZxuKYF1dsMCyB-nxgfNqW84xYIphMnt6qkJnNa7IRnpLKtDicHXkt8I-TJ9o3eOROB6qi6xrVEpQEpd8gRWrnhWneRl_dgFdHq3Rb3zQUb47qeumQiS6sp7M1_EZB2q-RwWQYMUY8ioOAElQwovnz3bnTGaQXAMxjkRz7afLcJPbNouSXkk93qgkzJro
+#EXTINF:-1 tvg-id="56" tvg-name="Zee Zest" tvg-logo="https://limon-iptv-image.vercel.app/India/Zee-Zest.png" group-title="India🇮🇳",Zee Zest
+gw:7_fx379nE5cY3ai50kAyBYZB-RQD34jKx6thoVt2oM1nOPYKf-Rj0rRlq1e3o_A778a3zNKjl7GputmgOo_sHtOg4K6pJpZnMqiheBT00K3X
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="https://limon-iptv-image.vercel.app/India/Zee-Cinema.png" group-title="India🇮🇳",ZEE CINEMA
+gw:8N8O9Kn0hDwhTPXgsgYSzk0BmLzlGhbNTYtnl4_DrbmSDew4S6PkDibszmkmF-I5xcKsRcu0z_0akel3leaXnY1JhSGfeOuDNbQdPrZmgPVhjGbsuFkgZIE28PgAuAczkJ3WjBvdccQS2ObsWkk0DB9kE0361ANHcgLN
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="India🇮🇳",Zee Action
+gw:4UHY-rGlj19-NLDJfgSjvY3Ek960k4HifmFoFf5YpZja4HVr66gOrDaTa__Qppvo9FT8PzpuOwkAv3GFyPL7rkBXiEN_4kYQQD-SFUPsl5rE98lzgmEqjsNMEnerH8Sm3EAnK71-jrlwZsivoaukYimGdE6OGwq6gW3KtWrUGbRh
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bollywood" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Zee Bollywood
+gw:eOX3unhZVCy3AYfoN1_WM-nx334TXLAD1RJRZ2cPXrGrYqcp5HHfIZCrcBOo1cC72Oo9-cQi8lZhl_C5q9WHXNmt4mTw7Qo3SUqcYSvbUJr34E8Dgh-fzL15wbottnu-8NTfpnpvvRyPmcY2vHvtR6d0Hh21V30L5sT-b_IyWuWJ
+#EXTINF:-1 tvg-id="159" tvg-name="Goldmines" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Goldmines
+gw:Jbc1cKhwM943aSPD3Linhr4fbhBo-_QQQ074KyeZxv2x79GUxWM0XR6d8oFCms-oo8OVKcrgtlTFJkYFAumi-Iw_CPEhkVu61rcp4eG85U6BNQ
+#EXTINF:-1 tvg-id="" tvg-name="Goldmines Bollywood" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Goldmines Bollywood
+gw:GzTjmyBSmrSRsmz0FMAg8OCN-Ql3mJ2ZX_cAB3nrD7vf-Os6UTHO3twYH7meXxkQAuDbky8K8SwaeUNZQ-Pm0FSbft5LDlxQJNs34qIArseEUF4uZ8LpN_GtmEyaPJTK48fIi9ja
+#EXTINF:-1 tvg-id="" tvg-name="Goldmines Movies" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Goldmines Movies
+gw:-JCPOA0fwseO5lzmO7MELMBueE1ex52ELsPK9Xn6ZZ9FpI2jCh8DfaAoILpbeLUe7iiZoy7ut684IEzBWAaNSGLlt2jDggx678LCo8vq9Tzd6qcEXa87RX1b-_CV0yybwnI
+#EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",B4U Movies
+gw:FGa6iZdejiFKnlH2cp2EhIrewUubEDG2wYbdu4ObzoRBEtvF0u50fs2eI9h1Kvoa4uC17Ls9ZCCQVpEzywxjnjQjFI5-GQ8jq-gWsl_NZTpC1g
+#EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",B4U KADAK
+gw:gYthWA9eT4qiTT-1b-9dWY6LYhxuMyGfUustWYr_z9yCL4BonnUZa3YKxd6niDRfs_b3d8HSsJZtWcOhDj9HantK-ChEbTG902qgHStkjeiw
+#EXTINF:-1 tvg-id="64" tvg-name="MBC BOLLYWOOD" tvg-logo="https://limon-iptv-image.vercel.app/India/MBC-Bollywood.png" group-title="India🇮🇳",MBC BOLLYWOOD
+gw:mtfXoOoYAU_M5sdrhktT3yGv0bXh5cBFwtCfwBi4RsjyBJ41Ga7Tdlhn3xvsIxmE1FMuySskxpzozrroabHp3l9Fmbyit-q7L_JVIqHDzb_fL8HRNNVvNSR0y69Ll-5vhxPt3k2p4AlbYytQm5f3vyAvxlH1YL43mWeAwWS3MFKe
+#EXTINF:-1 tvg-id="" tvg-name="Jhojpuri Cinema" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Jhojpuri Cinema
+gw:nETdIIAYQeoCuQ_6i7pHzbIb-uJLRGMxHs9QINATIgkkON4uFs3QSUQj3aVu2_G-7S-ACexiA8XdowszescA15KRThQK07rcxcCyQ-ioV5kD0iVjQQ
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",HBO
+gw:mXv2uiTwVZqnhHtpWEuo03l5pGkzbD-oZcdcssfcwOrKhj1Re4XBwZ10fk6E9kCBRaZ8iIOGz1rgjFdFbamBbnYTnrXP
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Movies Now
+gw:qi-8mGtZP80x7S9EVEgtyWo1axwNuXbVfOGkb2vAFjVnfLBcc0CKLrmz5uILt51SkDJLa54cSfvIa7Cun8vqlzKsJTtu9hVpptlEcnB4Jw-Bz7JMeT0iRYqjdRt-BIoXsgdgvSFvfTSChTuGGWLiv0FKlebW_iB541Px11n_TFEW
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="India🇮🇳",Hollywood HD
+gw:1Q9sT8-rtmwhGUqXjgtRijtUju9BN_4sfYjd1bSpToh7McTMowr8TaBYuFTQj0tpUeQXxqlH5ohcXzyPN3rHQA64PbmMzw
+#EXTINF:-1 tvg-id="34" tvg-name="Star Jalsa" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Star-Jalsha.png" group-title="Indian-Bangla🇮🇳🇧🇩",Star Jalsa
+gw:ZZbhiCgnrRgE4oxoAzK27fEu3ulYMML_hekfyosoD5J06e8D9KBPADRTvJcuZWuth05LlrltYxmPzPpRjgiegIINqYGip4zPI-m8rvwe8P2xb_9zfmZ05OcAFmtu5aRsGGSM3-CNgA67MCacD3A40fmtcg3R2g
+#EXTINF:-1 tvg-id="35" tvg-name="JALSHA MOVIES" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Jalsha-Movies.png" group-title="Indian-Bangla🇮🇳🇧🇩",JALSHA MOVIES
+gw:NpFAlOh7MFhQWv4pZ7Ex5JKAH19zTpHdO7SNRhzIRe2dq3Bz0fzlvIr_FWAQ5Xu1vFv_HWqq--IBSEy-tV1IQoMCqtfLBcKRcPpQ-zmpIZX44H-b3c9vPivP
+#EXTINF:-1 tvg-id="36" tvg-name="ZEE BANGLA" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Zee-Bangla.png" group-title="Indian-Bangla🇮🇳🇧🇩",ZEE BANGLA
+gw:hbDRdQDwhLN4X8bMapcultZNs4vkBtsyPp3aUenezfCycqN8Ikdv6pjj7PVeYOkHUrNCey-d_l7rr1M7JfeLmSBvtNXOiMdpoO3iQ747MTnQaxN2PE8PADjDNwf98nOjoquAcoB7GeRlwok0k75TwM4kjw
+#EXTINF:-1 tvg-id="37" tvg-name="ZEE BANGLA CINMEA" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Zee-Bangla-Cinema.png" group-title="Indian-Bangla🇮🇳🇧🇩",ZEE BANGLA CINMEA
+gw:Dp6N4JhbcNKZITyuEEwU4R4XY3--5jzEfdn7FiCYzL3VBj9celqinOi69F4lLF0dCNyXkTj2pt-zVK1h9e0EJ1JP5WrJUBa1rxIp5oYr6w
+#EXTINF:-1 tvg-id="38" tvg-name="Colors Bangla" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Colors-Bangla.png" group-title="Indian-Bangla🇮🇳🇧🇩",Colors Bangla
+gw:DYORBCY6A0BXBcG06_AHbVBqXcc5Iu9ESk6YxQWsyVVxfoVOO3bEaZkeINL86cThuTpmLo-I9y-bgauMG65wI7t2sKzD8p4avk_wC41ymRshJR6AuwHiXFI4QtHTEORCFGBRmngwGA4qEw
+#EXTINF:-1 tvg-id="39" tvg-name="Colors Bangla Cinema" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Colors-Bangla-Cinema.png" group-title="Indian-Bangla🇮🇳🇧🇩",Colors Bangla Cinema
+gw:3lWr_k82kaMRst0Epi0AHFxeVd8FHrUeaOM59ElHXqLHVmV4coaR5akp_skeVxf32xAzNpLVLTJ_IRRPjW86QtYgGHcaWO6LRxEVE4-rHA
+#EXTINF:-1 tvg-id="48" tvg-name="SUN Bangla" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Sun-Bangla.png" group-title="Indian-Bangla🇮🇳🇧🇩",SUN Bangla
+gw:JbAFAkbzn7T-7ppC3dUdVFAfVT8YqbflYYe56UeyZG7mkhtg0fhhIt60u0AyeWjXvFVyE4wQJJbVTuRfQXlRdCmTzMvK-t08VScEfOenkQ
+#EXTINF:-1 tvg-id="40" tvg-name="Aakaash Aath" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Akash-Aath.png" group-title="Indian-Bangla🇮🇳🇧🇩",Aakaash Aath
+gw:iuk1nK5HlTbHuHB8Vril7V2QcBiVSzomTY1K15vXsrp_hYGmqIrIOLKoDYWmAb0G4UGtSyIzDuChpZay99yqVen8Ih9dQjzRgrWG3jnf4GOGydnyiVsAj12ogygN53_Jc6KwdDJvpb1x
+#EXTINF:-1 tvg-id="44" tvg-name="SONY AATH" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Sony-Aath.png" group-title="Indian-Bangla🇮🇳🇧🇩",SONY AATH
+gw:7-T2XzEwq3yax_w7uDvAi9ip-7PkIPPF-J7JmRtz7bTn1bHek9tqNa9I_1lZKdXebzbuMFCoyjVEstk-jMxWaD0PMxwq0cRaM_Jjhfb_i8qpYZeY5MInkQ7gqfba4WQrSPByr9d1XzMkpnZ1I_mYeeKGqn-JiKPXLN6Utd1Fts9S_-z4X0xeuEFQeBoZVyNDSMFaeqTc1p9m2CUF
+#EXTINF:-1 tvg-id="43" tvg-name="Enter 10 bangla" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Enter-10-Bangla.png" group-title="Indian-Bangla🇮🇳🇧🇩",Enter 10 bangla
+gw:vU9CVGkToqlOcBoCfRQwVEk2HQLqgrlHY5kUDG3JaHvcItNnrTkpH4QXEaXe-rDMCCKR8MSYmd1dWKMagjLf3ZnRDoXq29c-BQxMGbI3DQpONcE
+#EXTINF:-1 tvg-id="" tvg-name="Sananda TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Indian-Bangla🇮🇳🇧🇩",Sananda TV
+gw:BKpL5WOmvmC3EZ6BreGNPtGvJGd49wjyW18Svvq-TCm-ISt8CLwZRaYlSJxEXGx_5gp7nk41jWnIyGbTJBLcdLCN4F4f3j3MRfNGw2ppeugNOFI0ijKAThM-MMQ
+#EXTINF:-1 tvg-id="" tvg-name="U Bangla" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Indian-Bangla🇮🇳🇧🇩",U Bangla
+gw:LJZabr3mW3l2ZDxPur_58DlGJIjEv3XrMXYQ_y3o68kFYtjqLO8eMmHSfAcUCVhJRPuZEDo42JpU-atGSO5vWaUfMbm9RhOm4D6HLtvAHBg4Erk6x28
+#EXTINF:-1 tvg-id="42" tvg-name="TV9 Bangla" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/TV9-Bangla.png" group-title="Indian-Bangla🇮🇳🇧🇩",TV9 Bangla
+gw:6ZGiFqdN8MDVXlRrYew3eE9I0Tg5rygJJRUOpjj2qtCte-u1XA0IsNCrHEuAzEfN91zJBuLThu4_Z9cSvxfeY7esTVEJ8KY3Hr88QeyhxkdWrKZBiCyeaJTheFVvF4hqT9NdZjNL-F9w
+#EXTINF:-1 tvg-id="" tvg-name="kolkata TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Indian-Bangla🇮🇳🇧🇩",kolkata TV
+gw:hGtVnjHWzwnyvo1BF-Tnv1cT0Igm9owShYtG8oG68sr6Ql7KCuxXVPr1UQRqn0xUR-OxYGb9abeGPEW87Y3GpmF2-JCOq3qYtGeWyQcP0HSqalITgwA
+#EXTINF:-1 tvg-id="" tvg-name="DD Bangla" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Indian-Bangla🇮🇳🇧🇩",DD Bangla
+gw:xmZExLBBs1BfaEOXCZv3hEpCLpZ8wtqQE5TI0zL68KHOdCANPTWLngPQVXiuOqICdD-Wj-1UmxujisdPMuJ3Yuy6AY3ZroTAb7xi0tVfwE3IrU-tOzBuRv96W2C9x92_egFs22bUsNGQAxnH5P-KS5yPg2OeISieGOGtErfYIKVx
+#EXTINF:-1 tvg-id="" tvg-name="News18 Bangla" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Indian-Bangla🇮🇳🇧🇩",News18 Bangla
+gw:YwCwq-akzekq-vKrly-TMM6H6_V67AsABA0fGcACXxUtmoyzjUFxUz7zADhtYCGuEDAjlFLmSYInHCavnDvnkbxbEdDe-nd21p5FF7g18SUDDfq15MvansncILK5iTKP1eVyfgS6WHcoM1JBMsTAMQSQA0bIl8jCbiB_RjSxZYMkpaHtDaXUzBVKc1Xd9hDLiyHi8vVbwSG-F7IBqJjRtslKamXrBbVo
+#EXTINF:-1 tvg-id="41" tvg-name="Discovery Channel Bangla" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Discovery-Bangla.png" group-title="Indian-Bangla🇮🇳🇧🇩",Discovery Channel Bangla
+gw:NfZBKKWZMvqkY3FHo3evjf3QDBRbOeGsYzPGV3TSYKLE1Db4vhqV3HwJtn5UJhFXyL_7oSi9UZ49wR-ig8qK3JRQzGuCQULu8gLHqXqlI67cSSwsL12HlQELxPYo1FKOb2QFhRaRQ6EmlsT0pK51VetkYiudfIl1kjSR-A
+#EXTINF:-1 tvg-id="49" tvg-name="Travelxp-Bangla" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Travelxp-Bangla.png" group-title="Indian-Bangla🇮🇳🇧🇩",Travelxp-Bangla
+gw:cU0ji5HhfmAHN5Rrm0cjh7uYNHokstgRIvBceOASdkvjyuR5K6WfnwxPStvoyNvrVJuprgDokcvcgnv_Jt9JDlkCWJDoL9Jy76xI0Kn2_IgszJRo5FyxMjLFaLQ
+#EXTINF:-1 tvg-id="78" tvg-name="Duronto TV" tvg-logo="https://limon-iptv-image.vercel.app/Kids/Duronto.png" group-title="Kids🧩",Duronto TV
+gw:Dz52hTjRkuuHKH16MnDKe7tzScJEC1bUJpWe2B6Zi6poFUkSUQdKMzVDFuOWT1P78WD54HAHFoh-QxHIyeT5pvJ1cU5b1L10MDvgauPcPbVCGYzgk6cc6ly6SFzPJG9o
+#EXTINF:-1 tvg-id="74" tvg-name="ZB Cartoon" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Kids🧩",ZB Cartoon
+gw:g2i-Fq_hDbRe6QhXFvqL9FhvbLHgNgHTHE9Be2uliIVDsjppwZATymPMdYNhhKV6EQu-IvXE9MkWO7tOoj-Lfx1OaIFHlVqVZ6ybN3k
+#EXTINF:-1 tvg-id="" tvg-name="Rongeen TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Kids🧩",Rongeen TV
+gw:Q4JO70BedUrLyrEkC2mBpZ6CD3I3p__-KdBB7KRwcAr_ARZRyldSP0wgYdz7yTts3TLClMk0TB91CZpyWpFhwxqh4px1HWJB0cwedcxDK-vOv_MwcB1kkA
+#EXTINF:-1 tvg-id="72" tvg-name="Khushboo Bangla" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Khushboo-Bangla.png" group-title="Kids🧩",Khushboo Bangla
+gw:HXShxnwIUD4AtKxxCIyvWqNPcqEiJ0RplFt9WEn6CqqkL6C-iqPYNK1aJkqqniv9UGiBEV3tXu7__gv2K0RFfDKlc5oPnD8kSklzv8sknifve_TmEV1Jgb-JGkAHeIu_cOhstrjG-4m_XkY_k05h
+#EXTINF:-1 tvg-id="" tvg-name="Nick Bangla" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Kids🧩",Nick Bangla
+gw:MQhmFTtBr4gAoONLyl0EkMiyAnRnx23EYWtow2IAfHo239vAUnaRMgUKc4Mu7_ymZfbvCTdHDpVqhT169EIlg6IQCMPCsrRgSd1S3jN86g
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD+ (Multi Language)" tvg-logo="" group-title="Kids🧩",Nick HD+ (Multi Language)
+gw:YyXWbcgKv2XGPxhfZK5sT6o78XMTT2142PMuaowX32pNj_Ymi3F2KsYbn5XWhWBlsdYiWD3dqHsZY_fPd_La00sAPz40hRkjxctNmx4kGDoBFeyGPWdEFx13RvC-dDphBaCsywSzw8UK6U6F23qKwo9IODz3EMIl_SghN24
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Bangla" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Kids🧩",Sonic Bangla
+gw:jmIIRYVyivKVpZTgS7X0AMYUgJhr9vDTrlY-OBUziyQCU7wnBm6lrhhytineIOyknjR9Me_kMoQH5BWQ0mdagsKKdZpGLIh4DNC1TXnc-w
+#EXTINF:-1 tvg-id="" tvg-name="Sonic (Multi language)" tvg-logo="" group-title="Kids🧩",Sonic (Multi language)
+gw:dSNixGPNPri44b_8UA9LdZ2B-rLb5xCL8EW9SyJZAOPh5F4rdsF59KsJbmMCaheKWBQ7K5kKUE4sDHgelX_dc996ovHy-WZZrG2MzCjG2W8bZUfXG3qU2mrzFLiBiNdUv7L3e21XGEbSitaAcLvOdZF_Y0EixvJ9BFXr
+#EXTINF:-1 tvg-id="" tvg-name="Jungle Book" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Kids🧩",Jungle Book
+gw:MNastBA-PrQTYiE0gBa2AX7_SzVxSTuRHVYCrif0HEQXxfFf8MhktyOKWS_qF5Gzq3blcf0VBXTXgpFZ2FOs6gAY6jir_g1th2a6906eF4SX19tg0lKXFzq9rYphymVJZSgr3DFIFl4PIIT_UMsDdnlSPpbsQ3oaRO7qPPYlf2SZ7r1ttbtWmKGE68IntvoEUeoRMp8aL2o6MZGFW0CjZbU
+#EXTINF:-1 tvg-id="75" tvg-name="CN HD + (Multi Language)" tvg-logo="https://limon-iptv-image.vercel.app/Kids/CN-HD+.png" group-title="Kids🧩",CN HD + (Multi Language)
+gw:BjVDREcjw8wmhQM29Ne7G1ob2WDcId8l_Wz8MslKwvkZqKiHWKMi0_ptnxrUBE-aTB9IU9wUNoqLFtUGcc5Iu7Yfq6ZP6-TsiBZaDaHsMGoR_4o7ycXCqmeXxro4
+#EXTINF:-1 tvg-id="77" tvg-name="Cartoon Network Hindi" tvg-logo="https://limon-iptv-image.vercel.app/Kids/CN.png" group-title="Kids🧩",Cartoon Network Hindi
+gw:Jbwxt4T1gyMPnaM02WkDNK78l3T5eUTZHaN8SSMisiPlLqTcNwHgHgxVreE0JxEkBFyu4XEUi6tMRn2PqBYSXT5e-QKJXR2dZQ8cnMSYytdR3LTWA_m3LhEcQJ27fJ8rzxSCYxIUpg
+#EXTINF:-1 tvg-id="76" tvg-name="Hungama" tvg-logo="https://limon-iptv-image.vercel.app/Kids/Hungama.png" group-title="Kids🧩",Hungama
+gw:kY_Cq5UKDWv50PycLT0ip-onv2EvEd_vBshphJgAZXQj-KL725aGduNe13KtFUrBdKKwXoLZkAmlCj4yBLjxDeVBJk7yliWFC9JrZ7_Y_N-eYm-8n_OyYwTemhs
+#EXTINF:-1 tvg-id="154" tvg-name="Sony Yay Hindi" tvg-logo="https://limon-iptv-image.vercel.app/Kids/Sony-Yay-Hindi.png" group-title="Kids🧩",Sony Yay Hindi
+gw:IHSBEx5OBN3USaAE4sojPDqlc8m-TPBwh5HYWt--gflEFvI4tPdZUicPFEULiDj9LMcgvB8AsLGGI16r2DrpeUZF5OXuAfQr-T6hHP-BfNYitKn7HfIVEVButMwb58-6Fk6OxCgQzOQ0mZXwTv6qBVpNKt87rrQ3HDB97TBsNNgJocPiGenw9-4C8i889TOpAaK-WFyoJgM6W8PK
+#EXTINF:-1 tvg-id="152" tvg-name="Pogo Hindi" tvg-logo="https://limon-iptv-image.vercel.app/Kids/Pogo.png" group-title="Kids🧩",Pogo Hindi
+gw:tOGG7huNnInZsFSdUx0nko8ilsq-UX0WsZlxB_6XN-daW4rqEoqD6n_aGoSNw1flxNmJ70zNS427QHXGmURgr_zQ6_Zt7Dej7Udo8sNaqYAGPySSWXPqt2o5o0m2Cl9wPh2684Wt7EClSVrmyNTSlKoah_5yl2D4U91ZOCW8_B2IPA9UP927
+#EXTINF:-1 tvg-id="153" tvg-name="Discovery Kids Hindi" tvg-logo="https://limon-iptv-image.vercel.app/Kids/Discovary-Kids.png" group-title="Kids🧩",Discovery Kids Hindi
+gw:fHW-knibnjj4r4T8apT1N_nbnKNQJChDwtu1H-Z5RdzdOklyOQqQ2GlYpNUAFHqw4EgCrMjJcBlo2-x7pjxQuxaumAJc5tnecHBEqDoodUrbIcLAwr3VhiO-
+#EXTINF:-1 tvg-id="" tvg-name="Green Gold TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Kids🧩",Green Gold TV
+gw:ZLNKB6V9aDyUhX8Y9Q9_P7Rrlav_HK3qekl8gcYpCs2D0JM8Su7PfU2DgXtgL5NO1QjFIOFWLgo68BldaPDIg0kelmR_QjoF5UV63aHuwn5i--4feQTpgMONXKzNWWmwWDd7cb9s5BWS8mYaX4FgWVEAZCr_xfvsjFC_kDj7QBINwqd7u9n17S243fTtbJ8vaHt5kDp87_6Jdw5r0Bc46E1lEdok-0H0V1RTp72QdAwXJPXZ3_PVkrraCuROGaG83qlXBW_Q-0_7ay-cMl78tQ
+#EXTINF:-1 tvg-id="155" tvg-name="Disney Channel (Multi Language)" tvg-logo="https://limon-iptv-image.vercel.app/Kids/Disney-Channel.png" group-title="Kids🧩",Disney Channel (Multi Language)
+gw:qSyRoz2WDkFf3caf1G9tWLfvgaXiBSl7_G96l1GCtimDArxpPdETWB69YAZ8Q1Pf59TEAwN245t-OdGFTNKOQ2mcyFVs3ci6XeBFsuOdX1_pJDAMoRWex5jf5cs
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr (Multi Language)" tvg-logo="" group-title="Kids🧩",Disney Jr (Multi Language)
+gw:L2JrxkMWSqGh706sEzGG82MMYNaZLmvjP2lmQXGS2t4CWv-ITF94lMGUkF2AasGQxH51wN6fKTTvLhNjmgXSsAnoH_sHruJr2sb6gD--0dzOolCJODAxno4ch9rZ
+#EXTINF:-1 tvg-id="148" tvg-name="Doreamon 24/7" tvg-logo="https://limon-iptv-image.vercel.app/Kids/Doreamon.png" group-title="Kids🧩",Doreamon 24/7
+gw:HECamr202YeKxVcef7ksprM4-U504rB9YcB6U5nx1nQCILDTDP-Xj7bUqH-nEjWmpHHnkFIO2hA26IrMKR70U7F9ErKkh-5S_ASBUslrrLo7mOUZFHnjo8QBDul_
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Urdu" tvg-name="God Stands Kids Club TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Kids🧩",God Stands Kids Club TV
+gw:0_wUX9M4hGaXcwreVGdAUDzp5kmD16pqcA_kq7aFTsjOwIx5htYUofyXHBIrArl0xPXlYhY3lM3hJ5nu_grXvU2cpO-IBY98wQaj6z4_MAev0XKH55FTZxCCXEM
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="Kids🧩",Animax
+gw:aQnZ_S4YiQqR7DL-wfJavQZpTFuDJ8nzejSsvax-CpebYnW-v_PkpGVsppE0q8bcHw7AZ9RRp-ndY2EK9dnVpLr41Yi-ZNSr1h97t9WmSsau19mM58ZveINS10zRCF8WfxBjMLo7bnjCaePTVpopNb27Jfqj_ZRdgbpWuqoIbLfpdwXhrfpLI26i52QoT8CD-7w
+#EXTINF:-1 tvg-id="87" tvg-name="Samaa News" tvg-logo="https://limon-iptv-image.vercel.app/Pakistan/Samaa-News.png" group-title="Pakistan🇵🇰",Samaa News
+gw:Nc-FqdCIQrZoFzuoj0Gh91qCvkfeMcqBCktAq1XDRsBgHZCRhRMc5hqgdyN4JLcKL_RHU6YuGyTqVU7H4QmVMDFCPQiiX-34RfQpJM68MsJPsUFCz4vrWbDS3_pg2w
+#EXTINF:-1 tvg-id="" tvg-name="Hum News" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Pakistan🇵🇰",Hum News
+gw:JcrV1a7XCOiCr_JBNQ7HY7yB_81AhDe4raC7c6YvREcCXuK-gaqAouJtpDT6-idu5yeFZhRzzHe_flk7DHmExBbp2PX_NjRuUzYN9nNcwjBVtupfic-Qy5ZFE559DeyDJeM1_YVwADrcVq3MgQ1dfjyplGVcZdFZkuPeXC8Uv8cH
+#EXTINF:-1 tvg-id="83" tvg-name="Geo News" tvg-logo="https://limon-iptv-image.vercel.app/Pakistan/Geo-News.png" group-title="Pakistan🇵🇰",Geo News
+gw:ryqChvDCwPA-WGBlAfXC6FzRjXvbburlBNTZ4j5hi4gD4vPB6BivHnyXf5g1XUvW7akNkMAShaRnz_Im__3mD_jy1DYc3UxDAqeJCuEtL23c8pbzbSq20K_FBEJArWmhZCRARB0VjO0THxo4yDi_d6qNN4hZTK1x9gs3h3IyU6NU
+#EXTINF:-1 tvg-id="79" tvg-name="HUM TV" tvg-logo="https://limon-iptv-image.vercel.app/Pakistan/Hum-TV.png" group-title="Pakistan🇵🇰",HUM TV
+gw:xjgHEgjKQKH22u0U_kEZu7mGHh3zO-bWn6tc3gixntyoLT5oUKDrYbP4kgaHEekzVHbT3bI5Lld3vMuXSwF7KM8f_wQsSZSQjXOe7RzcQuHlbgZ251x3FXh5gNePX25yK_CbWZm6-mc3kZENIpj-EMz3e9gXu0gNqHjMmCNFw_vVUA
+#EXTINF:-1 tvg-id="" tvg-name="Hum  Masala" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Pakistan🇵🇰",Hum  Masala
+gw:9vHlHDoJi7TVS8eNvCatKUu4D6lCzE_-f62ITV21PhlzQ036P1PL7lQTHl7MwbC4jj0NzlVGKgrRHKvb_tmcSseZ2TTs
+#EXTINF:-1 tvg-id="" tvg-name="HUM SETARAY" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Pakistan🇵🇰",HUM SETARAY
+gw:Wv_IEy69M5eTb7Ps1r27DdKASpC-l7JPBxHGt6BQKym7cN97dESCLxoRXrqW_VJvjed5q7Xw4wo1EGgun733kJkzK61asHGw0WcU
+#EXTINF:-1 tvg-id="80" tvg-name="ARY DIGITAL" tvg-logo="https://limon-iptv-image.vercel.app/Pakistan/Ary-Digital.png" group-title="Pakistan🇵🇰",ARY DIGITAL
+gw:V-cjTimun9nmWPGXGKNln--5mo8nD9-4Na-Woipu4fXQpvGWw8RA12WueRE5SM9wmjdSkQeH4N_urRriQTfG5amo8Y1683K2jutYxfCl3Tt6ccU
+#EXTINF:-1 tvg-id="81" tvg-name="GEO TV" tvg-logo="https://limon-iptv-image.vercel.app/Pakistan/Geo-TV.png" group-title="Pakistan🇵🇰",GEO TV
+gw:8lsXBbx_GoBCaPhWXDOO_hqNIuYV7gC30gyG76_KTaCoSZwohbZLblnNNkATtf8d-M6m2UzfQ-gWwx4ZYuUv-H70gbHl31Ypry23339Uz-AS3yi2qtydOm32MTotJldRQWNjnrrAe2-0WPV47nUkGxd_pUq6S94XQIXOzTLa5ak
+#EXTINF:-1 tvg-id="88" tvg-name="Green TV" tvg-logo="https://limon-iptv-image.vercel.app/Pakistan/Green-TV.png" group-title="Pakistan🇵🇰",Green TV
+gw:e8RKiEse9dWL462HeqfQiGV4zYSvyeBCQqo6irUxgQv1Lq2wjGIB3tOsxmb42U7uBi_wbH0Yrw5cBDRFBd_NdNaNDuLn-3S3i4I-mAbKquEcOtz9
+#EXTINF:-1 tvg-id="89" tvg-name="A plus TV" tvg-logo="https://limon-iptv-image.vercel.app/Pakistan/A-Plus.png" group-title="Pakistan🇵🇰",A plus TV
+gw:V4mqmYG70BbhZ8p8ruV1Sie8Lt87tiRI0ljWIJ9IgnfRZOQ2SYKGdYPORwEFOWwU-EgPnUjw8ufH7p0XXfbp8AfeFAA5G2mEPEJ5I8r3ZtJfS2wV4U_mrKU5DVf-lTsY7dEmb9_zxDwG_tUYY1bLmbddz2Y-ID53f-emxbTYojDQ
+#EXTINF:-1 tvg-id="90" tvg-name="PTV Home" tvg-logo="https://limon-iptv-image.vercel.app/Pakistan/PTV-Home.png" group-title="Pakistan🇵🇰",PTV Home
+gw:PjX0uHKkX-rIOp0Wj0wXXXyfNc-_Mqr2Ea9ZBjfNsxcwKazCl8pH2JQM_zs7Q_3Z6tFdqgqSpJ2aL7UtUyeX3SN8D5zWHDrDoc2aCwmGWcOgUKBq_ubbElQIoLPVy3ZgCYWPYFYcftndNL4CnfVQ8tjZyWQnotHQJjEB6-Ubm6j8
+#EXTINF:-1 tvg-id="" tvg-name="Aan TV" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Pakistan🇵🇰",Aan TV
+gw:mDw14QF921TbBJNn7d68b4WpM09B9jssiadXjOxNEAIMf3GSTGTLPhlSC1tc2BPFX6-8LuPDJ9AVZY4ZbNRjiuQiI0MRllQug8X9kZELaqobde87fcU8yARiHFxpa7OVJE1FmrPJcDSD7ccryYc49uNObA3R2kuKS3y8xgc3P45K
+#EXTINF:-1 tvg-id="91" tvg-name="Play TV" tvg-logo="https://limon-iptv-image.vercel.app/Pakistan/Play-TV.png" group-title="Pakistan🇵🇰",Play TV
+gw:CcLu_gETj2IME_wmRpCP2UkLaxzBRZDqI7jb8HI2SW-4IOno-S_xzSM4lUfdPb-ygn4795lVqcdRonTPqd9H5j3DrquggsKpXt09kwndXGIEvnf_ocweEXgdGqHu6ntSpopXzCvalrIZn5kRgxIBxTdnrtVbtlmHxxiAuV7ACVTa
+#EXTINF:-1 tvg-id="46" tvg-name="Sangeet Bangla" tvg-logo="https://limon-iptv-image.vercel.app/IN-BD/Sangeet-Bangla.png" group-title="Music🎶",Sangeet Bangla
+gw:C9CjSO6d1rFWh93zLnm7oBQ5CHbJYa0hzZEFweTqo973jrHr2s_54RUHPVdNnoYZXGao3tkvrf3hywo04odPo-ZAi-tbC3pClLxlWZRHS-jVVULvDvo
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Music🎶",Dhoom Music
+gw:qe79WwegmYY-CJ4n8u2D_J__pZbNih_VGke8jOpR0_2Kqt5opX9SXyyHDy9144q57U063t-6rCZHJXUp-DjEreEOc97wk7-GUoR-
+#EXTINF:-1 tvg-id="141" tvg-name="B4U Music" tvg-logo="https://limon-iptv-image.vercel.app/Music/B4U-Music.png" group-title="Music🎶",B4U Music
+gw:aHXiyLoeWPkkKEhi4TLYK4vcF1WG1-zVgMGDf8KtxU2LFZbW0sbKn8xxuSIR4hkg9JGgEL3tnDkX6utENp4et7rS-2jZ1gawTzXL_HhW
+#EXTINF:-1 tvg-id="142" tvg-name="Zoom" tvg-logo="https://limon-iptv-image.vercel.app/Music/Zoom.png" group-title="Music🎶",Zoom
+gw:ZjQtL4PiE-vzsngpmbEL18YefYVA3JOahMVn30r3w5RysnuRLhc-a1D881zqgFKxCQDMN4VUwRgusF3O9A6nMqbLfKjHGkGX4vEHAp9gR6CEEYfMcXfT6lM7GPJAw7TKJjPFuOE8
+#EXTINF:-1 tvg-id="147" tvg-name="MUSIC INDIA" tvg-logo="https://limon-iptv-image.vercel.app/Music/Music-India.png" group-title="Music🎶",MUSIC INDIA
+gw:Wp2QlDqJ_-CzNhnNV9_JQOEtMgHqaUBJWXfAJl2EtgEtdlwmw5EiuMCr6MhdzMlO6m-uzN3STocsyLmhlFLJOL42zpprNegT2xegle0fUWOwZuQ
+#EXTINF:-1 tvg-id="146" tvg-name="Yrf music" tvg-logo="https://limon-iptv-image.vercel.app/Music/Yrf-Music.png" group-title="Music🎶",Yrf music
+gw:b_0MYFJ9t4WOiWfBnwp0uKgI7YgBx6CwHAQKcLFWRIYtOhSkP5NEH2Uqj45UDkDw-VW9eFurklrV8wyeKzwIUYdKmBwaR302-MbPK7fPB7DMQaHoAfElVpuXtVCtJsOpw2-5krBCXEgwHlWnJmogNRnoi9UMk2M
+#EXTINF:-1 tvg-id="143" tvg-name="9XM" tvg-logo="https://limon-iptv-image.vercel.app/Music/9xm.png" group-title="Music🎶",9XM
+gw:DS-1eKGrc-EXv_ESpRHKtD5WquzarZBEeMBQbj1Bnt7LVYPkmXSmE6GL_1SXtWErDGM4piMUetmLcvqAgoajaNttKqkoX5CQSK4
+#EXTINF:-1 tvg-id="" tvg-name="9X Jalwa" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Music🎶",9X Jalwa
+gw:ZFDtf3TpoeuuUd-7tUZHxpu97HE_RQwReqZZZ_rjrL1eBFSzxnr2OFdehLsLNcsHie7NpL97hr0yW6HLok1tjrdSWMwtPF2UAqAQE_2u_g
+#EXTINF:-1 tvg-id="92" tvg-name="8XM" tvg-logo="https://limon-iptv-image.vercel.app/Pakistan/8XM.png" group-title="Music🎶",8XM
+gw:Hs-IE0-HCI18vZT3s0U81BlhhtRhNpaMpLoVvYElf_SMloutslQKpIZbNAC_4mYhP_vzoeYACxFoV8B0IkfYmUCMnR7c5h3_ey5opXLmqGLBWy6mxQHlvhiBj6g
+#EXTINF:-1 tvg-id="140" tvg-name="MTV Plus" tvg-logo="https://limon-iptv-image.vercel.app/Music/MTV+.png" group-title="Music🎶",MTV Plus
+gw:e0Ple3qHmcC2vSpkY4rjPDFLqAexE09WivhftQufeWNPQ9w9FIyANdHvu_QrTkrNdJdF5uyXQFwHvQJJm1tpxKYbj4Ga2KqeL7UEt8Fq
+#EXTINF:-1 tvg-id="" tvg-name="Hindi Hits HD" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Music🎶",Hindi Hits HD
+gw:_zCps1xKYaaolOZSpklz6e_ijSdmKjOBKGZfBGuoRv7P5StLIL2fIbDdGgwBWt9oOnqn-l_J5V1FyXZiDiDO_ggriwolvoh3H3uJGA
+#EXTINF:-1 tvg-id="" tvg-name="Epic Music" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Music🎶",Epic Music
+gw:sTMTHwfh54Xj5mSmt7xfcltvhspoKGsdOpbeLXQwVpu3lOyOgvEvXHA_NtgK8CXzsDBLHBv9_T1l5Mt5hvrXK1kVuIQFDBmmbxv8pHztqphKiQ
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bhojpuri" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Music🎶",Sangeet Bhojpuri
+gw:X77o5Hhk7YXjFsrq_Mi4vV7WZktH8aeNc0jiKBI2FjP7X0cxm3UWK4ivb4s99qMpjCBG0fxBOhgpVCAinU1Q3u8S
+#EXTINF:-1 tvg-id="161" tvg-name="YT Music" tvg-logo="https://limon-iptv-image.vercel.app/Music/YT-Music.png" group-title="Music🎶",YT Music
+gw:auqCSIAjI3Y-GByxy-SPrfZ8KNuIoRr4p-f2qAqwl9gjwtuGpFaKEjPImwQHWslKaEFNlOk_bJ4AVYcPVmxM2jfyO_1fc8hcT1bOqkCH6A
+#EXTINF:-1 tvg-id="JooMusic.pk@SD" tvg-name="JooMusic" tvg-logo="https://limon-iptv-image.vercel.app/promo/LimonIPTVpro.png" group-title="Music🎶",JooMusic
+gw:3xeS1CHHGNItdLuipg04D0rZrgJVb7MKerzWXKkI0TnsvxgezE6S47nSw2XPivbZdfv172y78iW0u7kLlyntMvvc0vzKfCjgDwhZKKB-LY1kTZOx9dVt
+#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="" group-title="Music🎶",Zing
+gw:YbqEjs1XCheU6al3ACGLhwWXp6Ox-1S8mW-hEodAgq7IPAwsY_CaXzkEjvXKOduYdW04UWpX2UpSxQ9i02nEzOVfpWBL1oSbTYiNURhP
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://limon-iptv-image.vercel.app/Football/Tsports.png" group-title="CRICKET🏏",T SPORTS
+gw:-U_YE8nBg8c7V6MKFQJbaHyDrXTn8ZrZWN_myc2qgABaHIBkX3mgF0q4VCNQDsUoHddQTTWwRvHUpuzMEx74IXP6wZA1El3YpJxWokMTq0FOVUBJ0rqVAFFuhNH4L8uwla0k0i6gY39IyKltftPmLknP_IbEYGdvwCqwete6v6Et
+#EXTINF:-1 tvg-id="null" tvg-name="A Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQiLHzqQJ5aQ_2Yw42XrkbFxLaLKaCLsusAuv5SRnaGg&s=10" group-title="CRICKET🏏",A Sports HD
+gw:z9VMVzo6ip1fwlBconEDavSAwt20_20FgloAuQ5veK4vJMP5lyhprtGfvnwKXfV3Q8_fuu1O9pJJ4Qmle-wAbogXxeh54HhOvJIONiuXs2ZhEiSlocsQyHuRuriWaQ21p7pyM7LOFYLdrRfBveOY
+#EXTINF:-1 tvg-id="577319" tvg-name="PTV Sports" tvg-logo="https://banner2.cleanpng.com/20180805/vxh/947a3f69d7f6d5335c27e34fc446e83e.webp" group-title="CRICKET🏏",PTV Sports
+gw:LQKnT_rKtGU9UD2o0P5IxRdZ-0YozWHuyx6Tl2aIzKPy9ZkHsOnxWKfMko_syjsSRZsfmOyMp4Fht874yBnqhASmuhLCgZTXVfjm_rvqqi7MvBVHnRh4Wdv6RrtMJmhEm2bdQ_3uIZQvFBw1O8UemBBId1XJfxIDvIgf1C8J4Gu-
+#EXTINF:-1 tvg-id="null" tvg-name="Willow" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ybXdQ_m8QTvyzr15y2TzjVu7_qE7dRJAIpMzFzgQRA&s=10" group-title="CRICKET🏏",Willow
+gw:DWcvewLbcltb59nWxoS3tNiALv__FqXLuyHwBm2bA08ojsmKmb7qoFX8SLeFMPUmq0agX7ZH4Uh-HsfLQ981kgqfiF_kXia_z8RYGEh5-xtL7d6Q16N8iQ
+#EXTINF:-1 tvg-id="null" tvg-name="Willow 2" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BVjsBNkxdiMiGIpQMA6V%2Fz%2FPQvrkDCzssXwhkug62NpVSuVWgZr3mn" group-title="CRICKET🏏",Willow 2
+gw:ePe5I1aJmxAQh5gUPfK_piBYsterVbxtbgDKWzU6j-L-D99Ey3Q0e592047pYRpyh4UGvpg-eY-_TqplnZ-91ZBaIcCV_RgdfKP5NhTul9VyjIwUo4nVh127WdpxbDH2IeLecILE0JjLj4-oEPNglj0mblpIS8WZtYDMLiuBk3EQ
+#EXTINF:-1 tvg-id="null" tvg-name="FOX 501" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMxMlQT4snqSoZ3n1sSoyDqMusGgAFA-xCKx4--nVa8x5D9nhRRci3zBk&s=10" group-title="CRICKET🏏",FOX 501
+gw:6pfYsgsfM1EXsyCvMJ-WcTG_0crx0xTMAUpqAKsG95j3mb3fqdSSPYvtnpL9vBFAqjsV0DQTl1Z-UgXP2BU7YLpNjFC9FQC5Imd11-7mxA2h8QHxYMUEkMkpCRi0NekiqnBLjqt8kquXBmgHWC9uE4ZJgKgzl56yTZbmbypsB4Jn
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports" tvg-logo="" group-title="CRICKET🏏",Sky Sports
+gw:nbI55VWoz9zOkEIioOj0i99WM012zvVPT18KC2LDPIDyvSGBkNYue3I8GK4CCIy4Fw9IN0X9P6qw6h1pPKUXeLrb0T7JozZe7k7bn9F5UPaJRckpkdH4scww5jVkb8E45kvtNWgBaxAPtxwwGIAyPJX-0ivXp-j31e3qzNRojKLC
+#EXTINF:-1 tvg-id="null" tvg-name="TEN Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDNo6m2U6qcTZySdjd4DcM5nmvpkMDIqUcZhP36Jg12g&s=10" group-title="CRICKET🏏",TEN Sports HD
+gw:2opXHyHSDC8gg-lLRWF0biohLxrVCl12PZ38CchUDUsiQz9hBylYmOCShDQJM_Pv0lNvsfmpTMjyGb2usTSh9mXY0uHpKLij4790fAue0oK598OKqFMOFKShZf_kQje3KVFntuOi1SypDW5rZeDqU8RyMNM9meqRrAxSEmiGoyb8
+#EXTINF:-1 tvg-id="576934" tvg-name="STAR Sports 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc4X72TutGPhvESIzvQ7PKteuYFEzBjtA3HogHo42pA&s=10" group-title="CRICKET🏏",STAR Sports 1 HD
+gw:qkdlwjN8oPDFMf-NwKGM8gSvDMabsDUaTB4L08T2h99hkk3ADNmKiItNG2FziXQBn4PqBvOE-3Lud2HEuD6fLDXtFwapFNua-wS1fyqTfZfmMiJ2wk7aOiK4wWZPAahuLmqiPn_fLqE3Do2gSWTqqb3ior4R4UzHPx8KVRLN402h
+#EXTINF:-1 tvg-id="576985" tvg-name="STAR Sports 1 Hindi HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc4X72TutGPhvESIzvQ7PKteuYFEzBjtA3HogHo42pA&s=10" group-title="CRICKET🏏",STAR Sports 1 Hindi HD
+gw:dTA8MIGsrhUgU12S2Je1WT_Rj33fSXXI-El5nvwUnnULoJhLkor-XmkBHnQAgTCp__yL5vW0kYV5BLAPkFO7xTQjq_frIJ6tkWrlFGIBo4_QHR9RTd1we6BVuWQs4rLNMD0d2AhaQxZdlUPQrxvVCLWd6e8F9VenUaJF6PB-rau6
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="" group-title="CRICKET🏏",Star Sports 2
+gw:wfL0socbBQGdH7AMdUVJNuEth6fk_X5JYMycXxfeMwzXF3XFakpIjttMHhHI7Ubj0AH0zPceHqh50HVRN7LnJOOVIcrgMtOPP6XzZlEazh7_ZJxuCraEHP1YTFnfgjOsYXz4j4hOfP-KxkAOX6X0GZjE4rq3hKFr8qO0ab19VVtZ
+#EXTINF:-1 tvg-id="" tvg-name="Star sports 3" tvg-logo="" group-title="CRICKET🏏",Star sports 3
+gw:g3if9lfh_nXBESsUHY_l_x_ELOTzSwcB9l6MFwVyGFtrfJCk05BgIxRGKrUY6IcmJCc23LXnwdcFQTHcErzQP9Kz9BO3dGAYecTn-7hK7cajkgbB_J5x09lrXyk34hEIXjMxLG72jy9jwrCwpcKDGBa5N08e4yoowYqG4WyRRA2S
+#EXTINF:-1 tvg-id="577046" tvg-name="STAR Sports Select 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Rdt20UFHv3PQYDtjI9oJNWA2Xn2bhTW5Le19Prmdng&s=10" group-title="CRICKET🏏",STAR Sports Select 1 HD
+gw:bsOPWO-jkHqT80mdRHeRuvSw8AB0_GzyS4LSEMVJuIpL52-yKh_Q2tJ-LkMeBKFquJV-JfRgJTkQs7I-Af3Uqw7OlbHkHO1vkt9hfZlzVEyvlkAXB_Yb6_j7RJyBiKo3smQPp2dxZN1HdZYI6dM6fR-_MRKHZoeaWVZ95Eki5KpT
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="" group-title="CRICKET🏏",Star Sports Select 2
+gw:dWacWeIF8su16n4tTKsfQOhj5ltmQCxfUXAFQYTWQkz7EcIhoteUF67T7erwbHVjf-yJIqs4Xq84bQfix_IVLp2IgdL7eQB4kVrIBLPH7UauIoJrBOoHd_HFG260vMdKUuIlgKXd4k4WgFkGRzpf3BbwqZJ0gDfEs6YGvZtyFbr2
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV" tvg-logo="" group-title="CRICKET🏏",Sony LIV
+gw:sllzYTmwrJ6tJ425X5B1V0JWgp76ATzHWe4mDzYxD0pNOylJupa-WTetHnQVuFarTifQQ6IG6IaSaryT9PgJhN8ct6dX945SCHk8xGvL
+#EXTINF:-1 tvg-id="577030" tvg-name="SONY TEN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3pFT1t53W1Wsgu6YF8FxAk2OniIGfRko3askCMLe5g&s=10" group-title="CRICKET🏏",SONY TEN 1 HD
+gw:Bd0E8d3swJfjcUJVLUPUiGQz609j5a2CC3Y8OurVMbzmIKMcw98xL4xxsqtqc03lmsqn9F1lTaXx100cDP_4qY79paVcWp7x9NOs1f-ZHDGxvVp-gKyjZzKYFgYtl-dIVRB-3Ml4fj0EAasWfhhKoB5uYRwbcs5HrgS65HvfHQb8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="" group-title="CRICKET🏏",Sony Ten 2
+gw:QsrKvS2O6MyrjUyc8k3zkF8jwx7qaxjdpKN_A80WQN0zpeS4FXsKFDu2rlyOPPa658hpYNfU2O7aM1tNe5tQcD7A0dEN_BvuDKjby8HnNcsA68qqQUQxbFRXWFn764qFxQIij82zD-lMF1cuUTcxxd-MwWhrTqM72apo9F4pH8AT
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="" group-title="CRICKET🏏",Sony Ten 3
+gw:bUaYtmJ3fOWmSa8DnBIGvCnlVB_M7RxH-ACfEiyRIQPInRcwo_vhdFm05Y-USIXla8QCjF4HLyXcCTFn-V1TzonEqedjCKALWxymORHpLq8IDAkxIE_87P9T6iCToxR6bcoI03PumlAZ5Qqje9EhaxxA6HVONPtGHMyV0mdM39gV
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 5" tvg-logo="" group-title="CRICKET🏏",Sony Ten 5
+gw:6h8p9F9fEDqTKffyQ5syqOPQws56OX2ozWm_Je-A6HKB1c8WanjSOifEuQPZifUiYPP0Q6376RgFBV_nFR3FxWeOqWZ1kuplUHv5PDbRgEVTC7ypRFpR-EyQHd5cKRN4AsmkDVUSq6QeayuSL-TpWH0CT3xMhvu1B-kJ2Lsk9_4b
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sporys 1" tvg-logo="" group-title="CRICKET🏏",TNT Sporys 1
+gw:rSAXCrPLJob7aWekyxajgijHUEiBLlRbk3qvwZ28YjVMu1pfskTF1ItTbDirH5alr7_qnwYaE2ievFHsMHxE54lzCo6JS_scA0Hl3sOT46-6TKPRM0h1-IVyNEy656yDO9ZBfSS5aw6Q_cnx6DD7Z41O4Uj9XY6IsnCjIpJ_sCmt
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1" tvg-logo="" group-title="CRICKET🏏",Bein Sports 1
+gw:jszwXolnAcv2QrAzl0jkZL518SRubR6_XTvIfmvKJmMz6Q7oDAHJ23bUxqMuZz4VRMtb_Q3AiD86BtPrN905vL_CWmlE2O4T4VBIQtpvc6KAtil175bgHR5-Ho0eU8AFZz5au_BdaE5Y01AJuQ6aufW9z4bObMwyOVVCN7-CHpFbZQ
+#EXTINF:-1 tvg-id="" tvg-name="Bangla" tvg-logo="https://i.ibb.co/8nrDdP6b/Chat-GPT-Image-Sep-8-2026-07-09-50-AM.png" group-title="BIGG BOSS",Bangla
+gw:QHP0s6_I8OdyOOk4vkXXpa5ikI6ZR_0iZzNOBWEkUBnh4nShzoDdWrfnupEr1_Ue0YF8xw05ui7EAamF0-Y-92-IsMD8xylrDhW6WUqnnkk-OSWDmd_RljjQCiVO3Eub2Rt_owrLY8KMT5TdahVCNTWKCMltCBLpCFA35xYd
+#EXTINF:-1 tvg-id="" tvg-name="Hindi" tvg-logo="https://i.ibb.co/gbF1bDzk/Chat-GPT-Image-Sep-8-2026-12-17-11-AM.png" group-title="BIGG BOSS",Hindi
+gw:RGBmgeKRrCh2d8BO3EVJShEplocBj6SJJmsFNxmAPyms02uZ14WaS_h7U33mUKg-3em_9U3dStwZihrvu1A2xL7gNH5yCioSOkl31VrQbdwsUERiC7pec9xeM9GUXuZtxmXmHYLRb4J2S_CfWkQMfVd5tJNU7jlc6AxFL_Tn
+#EXTINF:-1 tvg-id="" tvg-name="Telegu" tvg-logo="https://i.ibb.co/xqz4bfJQ/Chat-GPT-Image-Sep-8-2026-12-22-47-AM.png" group-title="BIGG BOSS",Telegu
+gw:rSQlvp3dlRjkPNeST7QYrxGBelPMJFoK11FxBZYpF1_E0JgoO0ZT8oKXqbMXuyrbTsrtwhOddNEmC4qQ_ZUxz_oXFFzYQ-bOX-Au36Clp8HPheevSoapfs-aOUCgmxZZEQ4O0MQk2vmbNYV0lNj4ejTEJgaJVaIc6ZyESzlk
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam" tvg-logo="https://i.ibb.co/hR2kPySc/Chat-GPT-Image-Sep-8-2026-12-20-40-AM.png" group-title="BIGG BOSS",Malayalam
+gw:EGfaITgC0ElrwPk2_tiDqirQuCcWZcG56dz8KzVVN4OI1EIvSqW-p7ksc4A4w_ymdumAMSAeUST2orKP0_BJ_ocwOxXcSi--54ZR7S8dOiVPU0y6n5XdWarllRKu9VoQDjLVqNKA5MLF845qnP3Wtto3f9X4E0JVCcONpDVw
+#EXTINF:-1 tvg-id="" tvg-name="Tamil" tvg-logo="https://i.ibb.co/SD9wCQ6y/Chat-GPT-Image-Sep-8-2026-12-35-35-AM.png" group-title="BIGG BOSS",Tamil
+gw:sh4q35985YWa_3AiYJ7SDMPE7ethTAm1vE7FvsBIG4mICnBo_RE70JsPMHgyO4D7pB9tN_eTCxBQiFdZ7IqyIhqUJA5eW33xwxrSvTp1EEPaokucfOUVqyr_Swfl1PF7NZSJTxfKommf47pY_BxI3pOrPF_usKssrUP-7r9z
+#EXTINF:-1 tvg-id="" tvg-name="Kannada" tvg-logo="https://i.ibb.co/FRj2F76/Chat-GPT-Image-Sep-8-2026-07-07-03-AM.png" group-title="BIGG BOSS",Kannada
+gw:Ts8aZf4KwzZ1EZatpZbGzo7hHzhe61FiaXc3BNb_fpV8fb2GqQqPXwK1-1V6MbP6LWiOekSsKRPdFhHRMJ8vFuYVRG8yX5dkCzzeeZuqS56sx6tlwk84hMCo4ofTcVIxesnmpSuMC6iiWBf3xsd_FNwKy9hTeDaqLxlJawh0
